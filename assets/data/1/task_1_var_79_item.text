@@ -1,0 +1,792 @@
+id::839020
+name::Дортмунд 2000
+city::Бильбао
+begin::26.12
+system::Swiss
+tours_count::9
+min_rating::2348
+time_on_game::111
+=====
+id::509809
+name::Биль 2001
+city::Алькала-де-Энарес
+begin::16.06
+system::Swiss
+tours_count::9
+min_rating::2456
+time_on_game::104
+=====
+id::173248
+name::Макартур 2022
+city::Бургос
+begin::24.08
+system::circular
+tours_count::10
+min_rating::2304
+time_on_game::123
+=====
+id::352102
+name::Сент-Луис 1973
+city::Бишкек
+begin::15.04
+system::Olympic
+tours_count::13
+min_rating::2489
+time_on_game::54
+=====
+id::564377
+name::Политика 2009
+city::Эльче
+begin::22.01
+system::Olympic
+tours_count::6
+min_rating::2411
+time_on_game::34
+=====
+id::242037
+name::Шамкович 2011
+city::Камбадос
+begin::22.09
+system::Swiss
+tours_count::13
+min_rating::2386
+time_on_game::60
+=====
+id::515985
+name::Балтийская цепь 1984
+city::Вильнюс
+begin::08.11
+system::Olympic
+tours_count::10
+min_rating::2427
+time_on_game::26
+=====
+id::273701
+name::Сент-Луис 1953
+city::Овьедо
+begin::05.05
+system::circular
+tours_count::6
+min_rating::2545
+time_on_game::32
+=====
+id::132821
+name::Биль 1962
+city::Подгорица
+begin::11.03
+system::Swiss
+tours_count::12
+min_rating::2482
+time_on_game::67
+=====
+id::343327
+name::Реджо-нель-Эмилия 2024
+city::Варшава
+begin::03.04
+system::Swiss
+tours_count::8
+min_rating::2315
+time_on_game::68
+=====
+id::411401
+name::Чемпионат мира 2003
+city::Тирана
+begin::13.07
+system::Swiss
+tours_count::10
+min_rating::2252
+time_on_game::168
+=====
+id::751417
+name::Балтийская цепь 1988
+city::Монсон
+begin::01.04
+system::circular
+tours_count::11
+min_rating::2603
+time_on_game::124
+=====
+id::557291
+name::Вейк-ан-Зее 1964
+city::Кишинев
+begin::15.11
+system::Olympic
+tours_count::12
+min_rating::2564
+time_on_game::96
+=====
+id::624650
+name::Вейк-ан-Зее 2012
+city::Навалькарнеро
+begin::07.11
+system::Swiss
+tours_count::10
+min_rating::2448
+time_on_game::58
+=====
+id::232708
+name::Мемориал Таля 2007
+city::Куэнка
+begin::16.08
+system::circular
+tours_count::8
+min_rating::2230
+time_on_game::25
+=====
+id::654091
+name::Аэрофлот Опен 1964
+city::Афины
+begin::06.10
+system::Olympic
+tours_count::9
+min_rating::2549
+time_on_game::169
+=====
+id::858177
+name::Линарес 1996
+city::Махадаонда
+begin::17.09
+system::Swiss
+tours_count::12
+min_rating::2261
+time_on_game::58
+=====
+id::734398
+name::Мемориал Таля 1965
+city::Москва
+begin::25.06
+system::circular
+tours_count::14
+min_rating::2415
+time_on_game::101
+=====
+id::717993
+name::Турнир претендентов 1989
+city::Вильявисиоса
+begin::26.04
+system::Swiss
+tours_count::8
+min_rating::2593
+time_on_game::145
+=====
+id::855879
+name::Биль 1990
+city::Трухильо
+begin::10.06
+system::Swiss
+tours_count::13
+min_rating::2525
+time_on_game::125
+=====
+id::308991
+name::Тилбург 1979
+city::Бишкек
+begin::16.04
+system::Olympic
+tours_count::9
+min_rating::2621
+time_on_game::118
+=====
+id::454260
+name::Шамкович 1991
+city::Мартоса
+begin::18.06
+system::circular
+tours_count::6
+min_rating::2574
+time_on_game::15
+=====
+id::975639
+name::Биль 1964
+city::Лас-Росас
+begin::12.09
+system::circular
+tours_count::7
+min_rating::2584
+time_on_game::103
+=====
+id::171292
+name::Ставангер 2018
+city::Трухильо
+begin::12.07
+system::Swiss
+tours_count::10
+min_rating::2307
+time_on_game::100
+=====
+id::188457
+name::Аэрофлот Опен 1993
+city::Льейда
+begin::19.09
+system::Olympic
+tours_count::12
+min_rating::2545
+time_on_game::30
+=====
+id::925545
+name::Вейк-ан-Зее 1996
+city::Вроцлав
+begin::26.09
+system::Swiss
+tours_count::15
+min_rating::2441
+time_on_game::124
+=====
+id::112110
+name::Реджо-нель-Эмилия 1980
+city::Бильбао
+begin::01.03
+system::circular
+tours_count::11
+min_rating::2529
+time_on_game::90
+=====
+id::277519
+name::Вена 1972
+city::Аликанте
+begin::12.06
+system::circular
+tours_count::8
+min_rating::2292
+time_on_game::82
+=====
+id::160322
+name::Мемориал Таля 2015
+city::Тирана
+begin::24.03
+system::Swiss
+tours_count::13
+min_rating::2203
+time_on_game::144
+=====
+id::897335
+name::Биль 1994
+city::Астана
+begin::15.10
+system::circular
+tours_count::15
+min_rating::2435
+time_on_game::71
+=====
+id::176316
+name::Sinquefield Cup 2015
+city::Сеговия
+begin::09.08
+system::Swiss
+tours_count::12
+min_rating::2368
+time_on_game::92
+=====
+id::626171
+name::Пальма 2016
+city::Луарка
+begin::22.10
+system::Swiss
+tours_count::15
+min_rating::2430
+time_on_game::73
+=====
+id::171405
+name::Биль 2015
+city::Варшава
+begin::22.04
+system::Olympic
+tours_count::8
+min_rating::2278
+time_on_game::40
+=====
+id::771733
+name::Сент-Луис 1963
+city::София
+begin::11.07
+system::Olympic
+tours_count::15
+min_rating::2533
+time_on_game::27
+=====
+id::704268
+name::Ставангер 1988
+city::Севилья
+begin::03.07
+system::circular
+tours_count::9
+min_rating::2560
+time_on_game::159
+=====
+id::911442
+name::Кубок мира 2023
+city::Хихон
+begin::20.06
+system::circular
+tours_count::11
+min_rating::2424
+time_on_game::72
+=====
+id::512695
+name::Лондон 2002
+city::Кадакес
+begin::13.01
+system::circular
+tours_count::8
+min_rating::2553
+time_on_game::80
+=====
+id::742287
+name::Чемпионат мира 1974
+city::Малага
+begin::22.02
+system::Swiss
+tours_count::15
+min_rating::2493
+time_on_game::152
+=====
+id::220519
+name::Цюрих 2008
+city::Будапешт
+begin::09.09
+system::Swiss
+tours_count::15
+min_rating::2265
+time_on_game::83
+=====
+id::328936
+name::Ставангер 2020
+city::Минск
+begin::12.07
+system::circular
+tours_count::6
+min_rating::2461
+time_on_game::137
+=====
+id::922801
+name::Линарес 2002
+city::Монсон
+begin::03.10
+system::circular
+tours_count::12
+min_rating::2321
+time_on_game::125
+=====
+id::474551
+name::Турнир претендентов 1996
+city::Сантьяго-де-Компостела
+begin::05.06
+system::Olympic
+tours_count::7
+min_rating::2593
+time_on_game::78
+=====
+id::662398
+name::Цюрих 2019
+city::Тарраса
+begin::15.02
+system::Swiss
+tours_count::12
+min_rating::2391
+time_on_game::100
+=====
+id::496247
+name::Sinquefield Cup 2022
+city::Виго
+begin::12.05
+system::circular
+tours_count::7
+min_rating::2503
+time_on_game::169
+=====
+id::752739
+name::Алушта 1955
+city::Осера
+begin::14.06
+system::Swiss
+tours_count::14
+min_rating::2421
+time_on_game::60
+=====
+id::461388
+name::Биль 1998
+city::Хихон
+begin::20.06
+system::Swiss
+tours_count::7
+min_rating::2275
+time_on_game::93
+=====
+id::427788
+name::Лондон 2007
+city::Скопье
+begin::13.06
+system::circular
+tours_count::15
+min_rating::2551
+time_on_game::27
+=====
+id::617547
+name::Ставангер 2023
+city::Камбадос
+begin::04.08
+system::Olympic
+tours_count::8
+min_rating::2255
+time_on_game::144
+=====
+id::887697
+name::Биль 1995
+city::Мадрид
+begin::14.09
+system::Swiss
+tours_count::14
+min_rating::2586
+time_on_game::83
+=====
+id::828961
+name::Пойковский 1996
+city::Москва
+begin::01.09
+system::circular
+tours_count::13
+min_rating::2517
+time_on_game::63
+=====
+id::413740
+name::Тилбург 1990
+city::Вильявисиоса
+begin::14.01
+system::Olympic
+tours_count::13
+min_rating::2455
+time_on_game::56
+=====
+id::702380
+name::Дортмунд 2009
+city::Эльче
+begin::22.07
+system::Olympic
+tours_count::9
+min_rating::2339
+time_on_game::151
+=====
+id::588014
+name::Чемпионат мира 2024
+city::Вальядолид
+begin::10.01
+system::Swiss
+tours_count::8
+min_rating::2371
+time_on_game::68
+=====
+id::854056
+name::Сент-Луис 1989
+city::Эльче
+begin::15.07
+system::Olympic
+tours_count::8
+min_rating::2591
+time_on_game::112
+=====
+id::732689
+name::Политика 1969
+city::Баку
+begin::22.02
+system::Olympic
+tours_count::7
+min_rating::2431
+time_on_game::36
+=====
+id::121077
+name::Вена 2001
+city::Севилья
+begin::26.03
+system::Olympic
+tours_count::8
+min_rating::2489
+time_on_game::64
+=====
+id::617076
+name::Пойковский 1987
+city::Куэнка
+begin::08.10
+system::Swiss
+tours_count::7
+min_rating::2418
+time_on_game::54
+=====
+id::365789
+name::Лондон 1966
+city::Овьедо
+begin::26.02
+system::Olympic
+tours_count::15
+min_rating::2582
+time_on_game::139
+=====
+id::278247
+name::Вена 1999
+city::Самора
+begin::01.01
+system::Olympic
+tours_count::11
+min_rating::2377
+time_on_game::168
+=====
+id::535994
+name::Алушта 1963
+city::Хихон
+begin::23.02
+system::Olympic
+tours_count::8
+min_rating::2422
+time_on_game::102
+=====
+id::918464
+name::Кубок мира 1971
+city::Сьюдад-Реаль
+begin::20.08
+system::Swiss
+tours_count::6
+min_rating::2294
+time_on_game::114
+=====
+id::759319
+name::Дортмунд 1952
+city::Будапешт
+begin::07.08
+system::Olympic
+tours_count::6
+min_rating::2352
+time_on_game::121
+=====
+id::701636
+name::Биль 1980
+city::Луарка
+begin::23.08
+system::Olympic
+tours_count::15
+min_rating::2480
+time_on_game::114
+=====
+id::720343
+name::Sinquefield Cup 2015
+city::Прага
+begin::25.05
+system::Swiss
+tours_count::12
+min_rating::2366
+time_on_game::100
+=====
+id::637861
+name::Лондон 1964
+city::Астана
+begin::26.11
+system::Olympic
+tours_count::14
+min_rating::2485
+time_on_game::155
+=====
+id::836654
+name::Цюрих 2007
+city::Скопье
+begin::22.05
+system::circular
+tours_count::7
+min_rating::2306
+time_on_game::59
+=====
+id::252740
+name::Гашиш 2004
+city::Мурсия
+begin::13.02
+system::Olympic
+tours_count::15
+min_rating::2534
+time_on_game::180
+=====
+id::876712
+name::Ставангер 1969
+city::Картахена
+begin::25.06
+system::circular
+tours_count::6
+min_rating::2262
+time_on_game::152
+=====
+id::872288
+name::Макартур 1999
+city::Хихон
+begin::12.04
+system::Swiss
+tours_count::9
+min_rating::2476
+time_on_game::121
+=====
+id::392421
+name::Шамкович 2008
+city::Алма-Ата
+begin::14.09
+system::Swiss
+tours_count::12
+min_rating::2370
+time_on_game::75
+=====
+id::567235
+name::Чемпионат мира 1968
+city::Самора
+begin::04.03
+system::Olympic
+tours_count::9
+min_rating::2583
+time_on_game::177
+=====
+id::519224
+name::Кубок мира 1959
+city::Трухильо
+begin::08.08
+system::Swiss
+tours_count::11
+min_rating::2339
+time_on_game::171
+=====
+id::908196
+name::Политика 2023
+city::Трухильо
+begin::05.07
+system::circular
+tours_count::11
+min_rating::2434
+time_on_game::48
+=====
+id::464356
+name::Вейк-ан-Зее 1976
+city::Луарка
+begin::16.03
+system::circular
+tours_count::6
+min_rating::2365
+time_on_game::56
+=====
+id::466123
+name::Лондон 1977
+city::Баку
+begin::09.12
+system::Olympic
+tours_count::13
+min_rating::2497
+time_on_game::37
+=====
+id::655625
+name::Гран-при ФИДЕ 2024
+city::Мартоса
+begin::26.05
+system::circular
+tours_count::10
+min_rating::2435
+time_on_game::144
+=====
+id::995955
+name::Пальма 1951
+city::Тбилиси
+begin::09.11
+system::Swiss
+tours_count::10
+min_rating::2228
+time_on_game::148
+=====
+id::852428
+name::Сент-Луис 2011
+city::Рига
+begin::26.01
+system::Swiss
+tours_count::6
+min_rating::2297
+time_on_game::151
+=====
+id::773511
+name::Лондон 2020
+city::Барселона
+begin::20.10
+system::Olympic
+tours_count::7
+min_rating::2551
+time_on_game::68
+=====
+id::124084
+name::Дортмунд 1992
+city::Ереван
+begin::25.10
+system::Swiss
+tours_count::8
+min_rating::2391
+time_on_game::121
+=====
+id::382160
+name::Макартур 2010
+city::Сеговия
+begin::11.09
+system::circular
+tours_count::8
+min_rating::2408
+time_on_game::157
+=====
+id::992942
+name::Реджо-нель-Эмилия 1968
+city::Бланес
+begin::20.08
+system::Swiss
+tours_count::15
+min_rating::2433
+time_on_game::172
+=====
+id::308945
+name::Цюрих 1952
+city::Камбадос
+begin::06.07
+system::Olympic
+tours_count::9
+min_rating::2285
+time_on_game::29
+=====
+id::789515
+name::Ставангер 1955
+city::Сантьяго-де-Компостела
+begin::19.12
+system::Swiss
+tours_count::15
+min_rating::2471
+time_on_game::116
+=====
+id::365711
+name::Политика 1961
+city::Скопье
+begin::24.11
+system::Olympic
+tours_count::6
+min_rating::2224
+time_on_game::117
+=====
+id::873342
+name::Вена 1959
+city::Хельсинки
+begin::11.01
+system::Olympic
+tours_count::10
+min_rating::2391
+time_on_game::30
+=====
+id::787953
+name::Тилбург 2007
+city::Ташкент
+begin::24.05
+system::circular
+tours_count::6
+min_rating::2457
+time_on_game::37
+=====
+id::686121
+name::Вейк-ан-Зее 2020
+city::Трухильо
+begin::03.05
+system::Swiss
+tours_count::7
+min_rating::2541
+time_on_game::124
+=====

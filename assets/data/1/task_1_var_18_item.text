@@ -1,0 +1,1078 @@
+id::103151
+name::Нефтепровод 24
+street::Минская улица 53
+city::Хихон
+zipcode::508038
+floors::1
+year::1856
+parking::False
+prob_price::445218939
+views::77238
+=====
+id::861951
+name::Библиотека 88
+street::Речная улица 76
+city::Алма-Ата
+zipcode::468748
+floors::10
+year::1654
+parking::False
+prob_price::685739578
+views::25809
+=====
+id::783945
+name::Маяк 56
+street::Минская улица 54
+city::Астана
+zipcode::325618
+floors::5
+year::1785
+parking::False
+prob_price::558109997
+views::56103
+=====
+id::523542
+name::Мушиный лабиринт 67
+street::Морская улица 6
+city::Хихон
+zipcode::438698
+floors::9
+year::1965
+parking::True
+prob_price::711419108
+views::11190
+=====
+id::157222
+name::Фабрика 98
+street::Весенняя улица 67
+city::Осера
+zipcode::473159
+floors::9
+year::1964
+parking::True
+prob_price::19764793
+views::83176
+=====
+id::561729
+name::Переправа 19
+street::Краковская улица 69
+city::Рига
+zipcode::993083
+floors::9
+year::1619
+parking::True
+prob_price::431479345
+views::80566
+=====
+id::892237
+name::Ферма 10
+street::Центральная улица 75
+city::Сараево
+zipcode::871001
+floors::6
+year::1660
+parking::False
+prob_price::730376789
+views::28993
+=====
+id::495181
+name::Дуплянка 74
+street::Морская улица 97
+city::Сория
+zipcode::651089
+floors::2
+year::1765
+parking::True
+prob_price::524726546
+views::43450
+=====
+id::221183
+name::Силок 22
+street::Лесная улица 65
+city::Камбадос
+zipcode::149007
+floors::8
+year::1773
+parking::False
+prob_price::221462862
+views::55315
+=====
+id::241675
+name::Лифт 50
+street::Центральная улица 89
+city::Куэнка
+zipcode::709013
+floors::1
+year::1879
+parking::True
+prob_price::404207947
+views::13838
+=====
+id::238842
+name::ТЭЦ 6
+street::Горная улица 14
+city::Будапешт
+zipcode::615997
+floors::2
+year::2012
+parking::False
+prob_price::778221514
+views::67052
+=====
+id::997595
+name::Берлога 1
+street::Школьная улица 68
+city::Скопье
+zipcode::320375
+floors::4
+year::1652
+parking::False
+prob_price::802081867
+views::54397
+=====
+id::635467
+name::Отель 34
+street::Летняя улица 74
+city::Кордова
+zipcode::371837
+floors::10
+year::1623
+parking::False
+prob_price::712781317
+views::3821
+=====
+id::422804
+name::Логово 73
+street::Горная улица 35
+city::Минск
+zipcode::827710
+floors::2
+year::1942
+parking::True
+prob_price::700952051
+views::99359
+=====
+id::987355
+name::Дуплянка 72
+street::Полевая улица 35
+city::Аликанте
+zipcode::787687
+floors::10
+year::1651
+parking::True
+prob_price::445511360
+views::77410
+=====
+id::630229
+name::Чердак 70
+street::Садовая улица 73
+city::Любляна
+zipcode::367396
+floors::7
+year::1932
+parking::False
+prob_price::989129295
+views::80046
+=====
+id::952399
+name::Петля 97
+street::Киевская улица 88
+city::Сеговия
+zipcode::471935
+floors::8
+year::1684
+parking::True
+prob_price::111130579
+views::35824
+=====
+id::169280
+name::Дворец 21
+street::Зимняя улица 7
+city::Луго
+zipcode::107011
+floors::1
+year::1961
+parking::True
+prob_price::533648996
+views::96540
+=====
+id::573174
+name::Цирк 98
+street::Морская улица 8
+city::Пласенсия
+zipcode::685805
+floors::4
+year::1684
+parking::True
+prob_price::839016374
+views::44025
+=====
+id::159019
+name::Нора 16
+street::Вроцлавская улица 76
+city::Скопье
+zipcode::551380
+floors::8
+year::1751
+parking::True
+prob_price::636295708
+views::76010
+=====
+id::226839
+name::Ресторан 12
+street::Спортивная улица 84
+city::Хихон
+zipcode::228820
+floors::8
+year::1923
+parking::True
+prob_price::70264448
+views::92376
+=====
+id::856228
+name::Бомбоубежище 78
+street::Краковская улица 83
+city::Куэнка
+zipcode::248132
+floors::9
+year::1848
+parking::True
+prob_price::693091983
+views::54063
+=====
+id::632412
+name::Пандус 8
+street::Московская улица 2
+city::Санкт-Петербург
+zipcode::105647
+floors::6
+year::1744
+parking::False
+prob_price::302157088
+views::24026
+=====
+id::323863
+name::Док 91
+street::Вроцлавская улица 98
+city::Льейда
+zipcode::935936
+floors::6
+year::1886
+parking::True
+prob_price::527279647
+views::6616
+=====
+id::340536
+name::Свиноферма 92
+street::Зимняя улица 15
+city::Афины
+zipcode::817750
+floors::8
+year::1602
+parking::False
+prob_price::501336571
+views::57476
+=====
+id::176744
+name::Гусятник 78
+street::Спортивная улица 43
+city::Ереван
+zipcode::706438
+floors::7
+year::1903
+parking::True
+prob_price::12760021
+views::4461
+=====
+id::737560
+name::Верблюжатник 40
+street::Полевая улица 21
+city::Санкт-Петербург
+zipcode::175401
+floors::1
+year::1770
+parking::False
+prob_price::448557798
+views::80640
+=====
+id::343596
+name::Мансарда 18
+street::Вроцлавская улица 98
+city::Трухильо
+zipcode::655403
+floors::5
+year::1629
+parking::True
+prob_price::363386326
+views::47774
+=====
+id::700113
+name::Свиноферма 52
+street::Спортивная улица 39
+city::Гранада
+zipcode::160145
+floors::10
+year::1697
+parking::False
+prob_price::105461168
+views::85595
+=====
+id::458533
+name::Канализация 90
+street::Киевская улица 26
+city::Сория
+zipcode::362321
+floors::10
+year::1874
+parking::True
+prob_price::634146574
+views::71171
+=====
+id::672904
+name::Убежище 78
+street::Зеленая улица 24
+city::Скопье
+zipcode::921444
+floors::2
+year::1885
+parking::False
+prob_price::86886631
+views::84484
+=====
+id::928030
+name::Дуплянка 51
+street::Речная улица 92
+city::Вильнюс
+zipcode::986889
+floors::10
+year::1877
+parking::True
+prob_price::40598235
+views::40840
+=====
+id::221925
+name::Усадьба 12
+street::Минская улица 49
+city::Ереван
+zipcode::416268
+floors::5
+year::1764
+parking::False
+prob_price::717013221
+views::65598
+=====
+id::961124
+name::Курятник 87
+street::Школьная улица 73
+city::Сантьяго-де-Компостела
+zipcode::270704
+floors::8
+year::1683
+parking::True
+prob_price::801142606
+views::87532
+=====
+id::183483
+name::Шале 19
+street::Садовая улица 26
+city::Виго
+zipcode::341460
+floors::9
+year::1948
+parking::True
+prob_price::194556423
+views::19472
+=====
+id::235545
+name::Коттедж 1
+street::Парковая улица 97
+city::София
+zipcode::266813
+floors::2
+year::1829
+parking::False
+prob_price::672659882
+views::99151
+=====
+id::863425
+name::Паутинник 93
+street::Осенняя улица 79
+city::Будапешт
+zipcode::730073
+floors::6
+year::1685
+parking::False
+prob_price::669774380
+views::14485
+=====
+id::643130
+name::Замок 41
+street::Краковская улица 18
+city::Гранада
+zipcode::211511
+floors::10
+year::1868
+parking::True
+prob_price::897515327
+views::99725
+=====
+id::290953
+name::Магазин 15
+street::Центральная улица 18
+city::Хихон
+zipcode::536202
+floors::3
+year::1661
+parking::True
+prob_price::135007130
+views::54642
+=====
+id::663681
+name::Институт 81
+street::Московская улица 26
+city::Луго
+zipcode::905691
+floors::8
+year::1737
+parking::True
+prob_price::323587051
+views::96638
+=====
+id::443458
+name::Архив 94
+street::Краковская улица 92
+city::Астана
+zipcode::534848
+floors::6
+year::1846
+parking::False
+prob_price::329316230
+views::351
+=====
+id::827651
+name::Чердак 5
+street::Осенняя улица 34
+city::Сьюдад-Реаль
+zipcode::848494
+floors::8
+year::1619
+parking::False
+prob_price::389278857
+views::49689
+=====
+id::679772
+name::Газопровод 80
+street::Морская улица 68
+city::Санхенхо
+zipcode::549713
+floors::1
+year::1881
+parking::False
+prob_price::795067595
+views::79755
+=====
+id::271584
+name::Театр 18
+street::Школьная улица 80
+city::Рига
+zipcode::502683
+floors::3
+year::1759
+parking::False
+prob_price::120199658
+views::3101
+=====
+id::590259
+name::Парк 17
+street::Солнечная улица 16
+city::Хихон
+zipcode::664839
+floors::1
+year::1950
+parking::False
+prob_price::204777600
+views::99516
+=====
+id::491478
+name::Газопровод 24
+street::Зеленая улица 38
+city::Москва
+zipcode::786233
+floors::10
+year::1828
+parking::False
+prob_price::847508072
+views::88699
+=====
+id::645770
+name::Мансарда 28
+street::Речная улица 63
+city::Любляна
+zipcode::921219
+floors::5
+year::1921
+parking::False
+prob_price::287119453
+views::65535
+=====
+id::236710
+name::Дворец 35
+street::Летняя улица 57
+city::Бургос
+zipcode::942647
+floors::7
+year::1969
+parking::True
+prob_price::718649417
+views::12663
+=====
+id::405554
+name::Замок 61
+street::Варшавская улица 3
+city::Барселона
+zipcode::306705
+floors::10
+year::1636
+parking::True
+prob_price::148804834
+views::85734
+=====
+id::632824
+name::Мост 92
+street::Речная улица 73
+city::Сан-Себастьян
+zipcode::249645
+floors::6
+year::1653
+parking::True
+prob_price::912852822
+views::93381
+=====
+id::799943
+name::Ламарий 20
+street::Солнечная улица 53
+city::Астана
+zipcode::920778
+floors::8
+year::1637
+parking::False
+prob_price::308065941
+views::43075
+=====
+id::164820
+name::Петля 40
+street::Горная улица 64
+city::Бишкек
+zipcode::732232
+floors::6
+year::1772
+parking::True
+prob_price::904133865
+views::93812
+=====
+id::814287
+name::Верфь 71
+street::Речная улица 34
+city::Ереван
+zipcode::356477
+floors::10
+year::1656
+parking::True
+prob_price::464281000
+views::97568
+=====
+id::769847
+name::Виадук 78
+street::Спортивная улица 45
+city::Прага
+zipcode::205647
+floors::6
+year::1670
+parking::True
+prob_price::29796626
+views::88120
+=====
+id::690840
+name::Коттедж 98
+street::Зимняя улица 15
+city::Белград
+zipcode::306610
+floors::8
+year::1614
+parking::False
+prob_price::543576029
+views::63841
+=====
+id::654365
+name::Архив 74
+street::Минская улица 62
+city::Бишкек
+zipcode::584310
+floors::5
+year::1633
+parking::False
+prob_price::895209983
+views::51161
+=====
+id::718133
+name::Особняк 99
+street::Зеленая улица 63
+city::Эльче
+zipcode::373613
+floors::9
+year::1632
+parking::True
+prob_price::908212051
+views::99886
+=====
+id::732512
+name::Церковь 45
+street::Лесная улица 97
+city::Льейда
+zipcode::891538
+floors::7
+year::1681
+parking::False
+prob_price::239545733
+views::44559
+=====
+id::591799
+name::Лежбище 82
+street::Полевая улица 88
+city::Баку
+zipcode::319287
+floors::8
+year::1745
+parking::False
+prob_price::899265795
+views::11984
+=====
+id::344909
+name::Офис 93
+street::Осенняя улица 4
+city::Подгорица
+zipcode::951094
+floors::4
+year::1953
+parking::False
+prob_price::219116220
+views::81398
+=====
+id::153018
+name::Церковь 14
+street::Осенняя улица 17
+city::Луарка
+zipcode::647627
+floors::8
+year::1956
+parking::False
+prob_price::607323278
+views::37082
+=====
+id::889240
+name::Причал 4
+street::Парковая улица 61
+city::Навалькарнеро
+zipcode::149647
+floors::2
+year::1834
+parking::True
+prob_price::90305637
+views::81963
+=====
+id::329121
+name::Чердак 14
+street::Киевская улица 54
+city::Сория
+zipcode::977804
+floors::8
+year::1676
+parking::False
+prob_price::696198500
+views::1701
+=====
+id::520578
+name::Петля 79
+street::Центральная улица 34
+city::Виго
+zipcode::622560
+floors::5
+year::1690
+parking::True
+prob_price::881843158
+views::34805
+=====
+id::221551
+name::Волчатник 33
+street::Зимняя улица 8
+city::Мартоса
+zipcode::268903
+floors::2
+year::1733
+parking::True
+prob_price::618619397
+views::55000
+=====
+id::408464
+name::Йодль 58
+street::Парковая улица 20
+city::Вальядолид
+zipcode::859009
+floors::7
+year::1651
+parking::False
+prob_price::890957081
+views::38308
+=====
+id::556058
+name::Пандус 28
+street::Юбилейная улица 7
+city::Мурсия
+zipcode::513721
+floors::2
+year::1655
+parking::False
+prob_price::140033913
+views::10405
+=====
+id::774883
+name::Аэропорт 36
+street::Варшавская улица 22
+city::Минск
+zipcode::894289
+floors::8
+year::1960
+parking::True
+prob_price::347323835
+views::70606
+=====
+id::148750
+name::Торговый центр 55
+street::Морская улица 59
+city::Ла-Корунья
+zipcode::479678
+floors::10
+year::2008
+parking::True
+prob_price::438231453
+views::87897
+=====
+id::267446
+name::Верблюжатник 84
+street::Московская улица 64
+city::Алькала-де-Энарес
+zipcode::516302
+floors::6
+year::1946
+parking::False
+prob_price::591900933
+views::2108
+=====
+id::902835
+name::Отель 46
+street::Солнечная улица 16
+city::Кадакес
+zipcode::380662
+floors::2
+year::1871
+parking::False
+prob_price::489556811
+views::53222
+=====
+id::731009
+name::Замок 30
+street::Речная улица 92
+city::Рига
+zipcode::732485
+floors::5
+year::1741
+parking::True
+prob_price::614549392
+views::90343
+=====
+id::755616
+name::Бомбоубежище 46
+street::Горная улица 11
+city::Семана
+zipcode::903096
+floors::7
+year::1669
+parking::False
+prob_price::881350151
+views::39860
+=====
+id::698473
+name::Парк 42
+street::Весенняя улица 9
+city::Виго
+zipcode::576551
+floors::5
+year::1673
+parking::False
+prob_price::364367026
+views::69814
+=====
+id::759433
+name::Гнездо 33
+street::Речная улица 44
+city::Загреб
+zipcode::497319
+floors::6
+year::1743
+parking::False
+prob_price::134344433
+views::81040
+=====
+id::985582
+name::Утятник 96
+street::Киевская улица 57
+city::Барселона
+zipcode::755879
+floors::7
+year::1819
+parking::True
+prob_price::956601795
+views::17665
+=====
+id::438927
+name::Кошара 60
+street::Минская улица 54
+city::Картахена
+zipcode::939379
+floors::10
+year::1891
+parking::False
+prob_price::723046967
+views::75563
+=====
+id::397449
+name::Чердак 67
+street::Парковая улица 40
+city::Эльче
+zipcode::947765
+floors::8
+year::2022
+parking::True
+prob_price::771282103
+views::63072
+=====
+id::437200
+name::Страусятник 90
+street::Полевая улица 60
+city::Сьюдад-Реаль
+zipcode::293117
+floors::4
+year::1719
+parking::True
+prob_price::197399191
+views::98569
+=====
+id::361379
+name::Гусятник 29
+street::Краковская улица 90
+city::Осера
+zipcode::414603
+floors::6
+year::1868
+parking::True
+prob_price::433550851
+views::13986
+=====
+id::901238
+name::Коттедж 66
+street::Спортивная улица 62
+city::Семана
+zipcode::490279
+floors::9
+year::1730
+parking::True
+prob_price::570945082
+views::64687
+=====
+id::397508
+name::Скворечник 17
+street::Горная улица 67
+city::Санхенхо
+zipcode::129648
+floors::3
+year::1659
+parking::False
+prob_price::533981456
+views::33881
+=====
+id::132273
+name::Мансарда 56
+street::Спортивная улица 9
+city::Картахена
+zipcode::183063
+floors::9
+year::1957
+parking::False
+prob_price::950136686
+views::34694
+=====
+id::796241
+name::Фабрика 67
+street::Летняя улица 53
+city::Афины
+zipcode::972023
+floors::8
+year::1813
+parking::True
+prob_price::883591211
+views::53401
+=====
+id::782198
+name::Тенета 84
+street::Морская улица 19
+city::Душанбе
+zipcode::968833
+floors::6
+year::1771
+parking::False
+prob_price::75702695
+views::13923
+=====
+id::189779
+name::Хаус 4
+street::Юбилейная улица 98
+city::Алькала-де-Энарес
+zipcode::483307
+floors::6
+year::1859
+parking::False
+prob_price::195160228
+views::72202
+=====
+id::716659
+name::Мостки 98
+street::Весенняя улица 77
+city::Куэнка
+zipcode::875174
+floors::5
+year::1642
+parking::False
+prob_price::656695468
+views::92576
+=====
+id::471254
+name::Кубло 77
+street::Морская улица 99
+city::Алма-Ата
+zipcode::477493
+floors::2
+year::1743
+parking::True
+prob_price::37555935
+views::6092
+=====
+id::795825
+name::Почта 43
+street::Школьная улица 54
+city::Малага
+zipcode::501459
+floors::7
+year::1664
+parking::True
+prob_price::508337919
+views::23471
+=====
+id::735530
+name::Нора 94
+street::Горная улица 20
+city::Загреб
+zipcode::920411
+floors::7
+year::1855
+parking::False
+prob_price::221010879
+views::22673
+=====
+id::778769
+name::Банк 40
+street::Спортивная улица 77
+city::Вильнюс
+zipcode::229409
+floors::6
+year::1928
+parking::False
+prob_price::18402727
+views::15498
+=====
+id::527988
+name::Офис 58
+street::Вроцлавская улица 55
+city::Картахена
+zipcode::610683
+floors::7
+year::2013
+parking::True
+prob_price::333721714
+views::10236
+=====
+id::662178
+name::Пасека 45
+street::Спортивная улица 29
+city::Любляна
+zipcode::547347
+floors::2
+year::1732
+parking::False
+prob_price::390358675
+views::95990
+=====
+id::846672
+name::Шмелиное гнездо 53
+street::Киевская улица 12
+city::Кордова
+zipcode::123442
+floors::7
+year::1880
+parking::True
+prob_price::600668591
+views::61954
+=====
+id::322840
+name::Усадьба 53
+street::Спортивная улица 98
+city::Сан-Себастьян
+zipcode::823993
+floors::1
+year::1735
+parking::True
+prob_price::797000572
+views::87519
+=====
+id::487235
+name::Порт 70
+street::Парковая улица 12
+city::Осера
+zipcode::170900
+floors::5
+year::1836
+parking::False
+prob_price::766884576
+views::20224
+=====
+id::807411
+name::Чердак 66
+street::Весенняя улица 41
+city::Алькала-де-Энарес
+zipcode::939089
+floors::6
+year::1641
+parking::False
+prob_price::527662347
+views::28993
+=====
+id::965398
+name::Свиноферма 24
+street::Полевая улица 39
+city::Эль-Пуэрто-де-Санта-Мария
+zipcode::263793
+floors::10
+year::1759
+parking::False
+prob_price::87901867
+views::10277
+=====
