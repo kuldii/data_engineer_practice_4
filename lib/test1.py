@@ -6,7 +6,7 @@ fileName = "task_1_var_12_item"
 varian = 12
 
 def initDB():
-    connection = sqlite.connect('assets/database/database1.db')
+    connection = sqlite.connect('assets/database/database.db')
     db = connection.cursor()
 
     db.execute("""
