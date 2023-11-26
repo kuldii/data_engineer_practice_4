@@ -31,16 +31,20 @@ with open("assets/data/2/"+fileName+".pkl", 'rb') as f:
     connection.row_factory = sqlite.Row
     db = connection.cursor()
     
-    allDataDetail = []
+    result = db.execute("SELECT * FROM detail_games")
     
-    for data in allDataFile:
-        id = getIdByName(db, data["name"])
-        dataDetail = (id,data["name"],data["place"],data["prise"])
-        allDataDetail.append(dataDetail)
+    if(result.fetchone() == None):
+        allDataDetail = []
         
-    db.executemany("""INSERT INTO detail_games
-                          (game_id, name, place, price) 
-                          VALUES (?, ?, ?, ?);""",allDataDetail)
-    connection.commit()
+        for data in allDataFile:
+            id = getIdByName(db, data["name"])
+            dataDetail = (id,data["name"],data["place"],data["prise"])
+            allDataDetail.append(dataDetail)
+        
+        db.executemany("""INSERT INTO detail_games
+                            (game_id, name, place, price) 
+                            VALUES (?, ?, ?, ?);""",allDataDetail)
+        connection.commit()
     
+    result = db.execute("SELECT games.id, games.name, city, begin, system, tours_count, min_rating, time_on_game, place, price  FROM games,detail_games WHERE games.id = detail_games.game_id")
     
