@@ -128,7 +128,7 @@ for data in task1:
             dataDic[keys] = data[keys]
     dataTask1.append(dataDic)
 
-with open("assets/output/3/output_task_1.json", "w") as outfile:
+with open("assets/output/3/output_order_by_id_asc.json", "w") as outfile:
     json.dump(dataTask1, outfile, indent=4, ensure_ascii=False)
     
 # TASK 3
@@ -143,3 +143,19 @@ for data in task3:
     
 with open("assets/output/3/output_category.json", "w") as outfile:
     json.dump(dataTask3, outfile, indent=4, ensure_ascii=False)
+    
+# TASK 4
+result = db.execute(f"SELECT * FROM songs ORDER BY year DESC LIMIT {varian + 15}")
+task4 = result.fetchall()
+dataTask4 = []
+for data in task4:
+    dataDic = dict()
+    for keys in data.keys():
+        if(keys == "genre"):
+            dataDic[keys] = data[keys].split(", ")
+        else:
+            dataDic[keys] = data[keys]
+    dataTask4.append(dataDic)
+
+with open("assets/output/3/output_order_by_year_desc.json", "w") as outfile:
+    json.dump(dataTask4, outfile, indent=4, ensure_ascii=False)

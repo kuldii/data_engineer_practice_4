@@ -1,0 +1,481 @@
+[
+    {
+        "id": 502,
+        "artist": "t.A.T.u.",
+        "song": "All The Things She Said",
+        "duration": 214440,
+        "year": 2020,
+        "tempo": 179.92,
+        "genre": [
+            "pop"
+        ],
+        "acousticness": 0.0411,
+        "instrumentalness": null,
+        "energy": 0.834,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 39
+    },
+    {
+        "id": 1585,
+        "artist": "Will Smith",
+        "song": "Switch",
+        "duration": 197666,
+        "year": 2020,
+        "tempo": 102.516,
+        "genre": [
+            "hip hop",
+            "pop"
+        ],
+        "acousticness": null,
+        "instrumentalness": 0.478,
+        "energy": null,
+        "loudness": -4.325,
+        "explicit": 0,
+        "popularity": null
+    },
+    {
+        "id": 1675,
+        "artist": "NSG",
+        "song": "Options",
+        "duration": 240081,
+        "year": 2020,
+        "tempo": 101.993,
+        "genre": [
+            "World/Traditional",
+            "hip hop"
+        ],
+        "acousticness": null,
+        "instrumentalness": 0.762,
+        "energy": null,
+        "loudness": -4.684,
+        "explicit": 1,
+        "popularity": null
+    },
+    {
+        "id": 44,
+        "artist": "Ashley O",
+        "song": "On A Roll",
+        "duration": 154447,
+        "year": 2019,
+        "tempo": 125.011,
+        "genre": [
+            "set()"
+        ],
+        "acousticness": 0.077,
+        "instrumentalness": null,
+        "energy": 0.81,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 57
+    },
+    {
+        "id": 47,
+        "artist": "Juice WRLD",
+        "song": "Robbery",
+        "duration": 240050,
+        "year": 2019,
+        "tempo": 159.966,
+        "genre": [
+            "hip hop"
+        ],
+        "acousticness": 0.328,
+        "instrumentalness": null,
+        "energy": 0.692,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 53
+    },
+    {
+        "id": 71,
+        "artist": "Offset",
+        "song": "Clout (feat. Cardi B)",
+        "duration": 205803,
+        "year": 2019,
+        "tempo": 140.022,
+        "genre": [
+            "hip hop",
+            "pop"
+        ],
+        "acousticness": 0.228,
+        "instrumentalness": null,
+        "energy": 0.622,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 68
+    },
+    {
+        "id": 117,
+        "artist": "Lil Tecca",
+        "song": "Ransom",
+        "duration": 131240,
+        "year": 2019,
+        "tempo": 179.974,
+        "genre": [
+            "hip hop"
+        ],
+        "acousticness": 0.0204,
+        "instrumentalness": null,
+        "energy": 0.642,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 78
+    },
+    {
+        "id": 123,
+        "artist": "Post Malone",
+        "song": "Sunflower - Spider-Man: Into the Spider-Verse",
+        "duration": 157560,
+        "year": 2019,
+        "tempo": 89.96,
+        "genre": [
+            "hip hop"
+        ],
+        "acousticness": 0.533,
+        "instrumentalness": null,
+        "energy": 0.522,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 79
+    },
+    {
+        "id": 127,
+        "artist": "MEDUZA",
+        "song": "Piece Of Your Heart",
+        "duration": 152913,
+        "year": 2019,
+        "tempo": 124.08,
+        "genre": [
+            "pop",
+            "Dance/Electronic"
+        ],
+        "acousticness": 0.0404,
+        "instrumentalness": null,
+        "energy": 0.744,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 75
+    },
+    {
+        "id": 194,
+        "artist": "Russ Millions",
+        "song": "Keisha & Becky - Remix",
+        "duration": 252906,
+        "year": 2019,
+        "tempo": 140.969,
+        "genre": [
+            "pop"
+        ],
+        "acousticness": 0.251,
+        "instrumentalness": null,
+        "energy": 0.471,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 69
+    },
+    {
+        "id": 269,
+        "artist": "Megan Thee Stallion",
+        "song": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
+        "duration": 199427,
+        "year": 2019,
+        "tempo": 98.985,
+        "genre": [
+            "hip hop",
+            "pop",
+            "R&B"
+        ],
+        "acousticness": 0.00485,
+        "instrumentalness": null,
+        "energy": 0.814,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 69
+    },
+    {
+        "id": 323,
+        "artist": "Sech",
+        "song": "Otro Trago",
+        "duration": 225933,
+        "year": 2019,
+        "tempo": 176.044,
+        "genre": [
+            "latin"
+        ],
+        "acousticness": 0.136,
+        "instrumentalness": null,
+        "energy": 0.7,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 71
+    },
+    {
+        "id": 332,
+        "artist": "Saweetie",
+        "song": "My Type",
+        "duration": 126446,
+        "year": 2019,
+        "tempo": 105.038,
+        "genre": [
+            "hip hop",
+            "pop",
+            "R&B"
+        ],
+        "acousticness": 0.000677,
+        "instrumentalness": null,
+        "energy": 0.811,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 71
+    },
+    {
+        "id": 348,
+        "artist": "Chris Brown",
+        "song": "Beautiful People",
+        "duration": 225881,
+        "year": 2019,
+        "tempo": 127.898,
+        "genre": [
+            "hip hop",
+            "pop",
+            "R&B"
+        ],
+        "acousticness": 0.0658,
+        "instrumentalness": null,
+        "energy": 0.775,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 53
+    },
+    {
+        "id": 351,
+        "artist": "Hinder",
+        "song": "Lips Of An Angel",
+        "duration": 261053,
+        "year": 2019,
+        "tempo": 129.005,
+        "genre": [
+            "pop",
+            "rock",
+            "metal"
+        ],
+        "acousticness": 0.0208,
+        "instrumentalness": null,
+        "energy": 0.744,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 35
+    },
+    {
+        "id": 357,
+        "artist": "Marshmello",
+        "song": "One Thing Right",
+        "duration": 181823,
+        "year": 2019,
+        "tempo": 88.042,
+        "genre": [
+            "pop",
+            "Dance/Electronic"
+        ],
+        "acousticness": 0.0644,
+        "instrumentalness": null,
+        "energy": 0.625,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 73
+    },
+    {
+        "id": 391,
+        "artist": "Drake",
+        "song": "Money In The Grave (Drake ft. Rick Ross)",
+        "duration": 205426,
+        "year": 2019,
+        "tempo": 100.541,
+        "genre": [
+            "hip hop",
+            "pop",
+            "R&B"
+        ],
+        "acousticness": 0.101,
+        "instrumentalness": null,
+        "energy": 0.502,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 76
+    },
+    {
+        "id": 408,
+        "artist": "Lauv",
+        "song": "i'm so tired...",
+        "duration": 162582,
+        "year": 2019,
+        "tempo": 102.211,
+        "genre": [
+            "pop",
+            "Dance/Electronic"
+        ],
+        "acousticness": 0.176,
+        "instrumentalness": null,
+        "energy": 0.733,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 2
+    },
+    {
+        "id": 415,
+        "artist": "Billie Eilish",
+        "song": "bad guy",
+        "duration": 194087,
+        "year": 2019,
+        "tempo": 135.128,
+        "genre": [
+            "pop",
+            "Dance/Electronic"
+        ],
+        "acousticness": 0.328,
+        "instrumentalness": null,
+        "energy": 0.425,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 83
+    },
+    {
+        "id": 438,
+        "artist": "Polo G",
+        "song": "Pop Out (feat. Lil Tjay)",
+        "duration": 166560,
+        "year": 2019,
+        "tempo": 168.112,
+        "genre": [
+            "hip hop"
+        ],
+        "acousticness": 0.15,
+        "instrumentalness": null,
+        "energy": 0.639,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 78
+    },
+    {
+        "id": 440,
+        "artist": "Billie Eilish",
+        "song": "bury a friend",
+        "duration": 193143,
+        "year": 2019,
+        "tempo": 120.046,
+        "genre": [
+            "pop",
+            "Dance/Electronic"
+        ],
+        "acousticness": 0.74,
+        "instrumentalness": null,
+        "energy": 0.389,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 75
+    },
+    {
+        "id": 454,
+        "artist": "Stormzy",
+        "song": "Vossi Bop",
+        "duration": 196266,
+        "year": 2019,
+        "tempo": 188.115,
+        "genre": [
+            "hip hop",
+            "Dance/Electronic"
+        ],
+        "acousticness": 0.13,
+        "instrumentalness": null,
+        "energy": 0.653,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 64
+    },
+    {
+        "id": 494,
+        "artist": "Regard",
+        "song": "Ride It",
+        "duration": 157605,
+        "year": 2019,
+        "tempo": 117.948,
+        "genre": [
+            "pop",
+            "Dance/Electronic"
+        ],
+        "acousticness": 0.177,
+        "instrumentalness": null,
+        "energy": 0.751,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 81
+    },
+    {
+        "id": 533,
+        "artist": "Tyler, The Creator",
+        "song": "EARFQUAKE",
+        "duration": 190066,
+        "year": 2019,
+        "tempo": 79.635,
+        "genre": [
+            "hip hop"
+        ],
+        "acousticness": 0.23,
+        "instrumentalness": null,
+        "energy": 0.498,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 80
+    },
+    {
+        "id": 545,
+        "artist": "Tones And I",
+        "song": "Dance Monkey",
+        "duration": 209438,
+        "year": 2019,
+        "tempo": 98.027,
+        "genre": [
+            "pop"
+        ],
+        "acousticness": 0.692,
+        "instrumentalness": null,
+        "energy": 0.588,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 78
+    },
+    {
+        "id": 546,
+        "artist": "Doja Cat",
+        "song": "Juicy",
+        "duration": 202333,
+        "year": 2019,
+        "tempo": 170.037,
+        "genre": [
+            "pop"
+        ],
+        "acousticness": 0.0856,
+        "instrumentalness": null,
+        "energy": 0.658,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 57
+    },
+    {
+        "id": 564,
+        "artist": "Ava Max",
+        "song": "So Am I",
+        "duration": 183026,
+        "year": 2019,
+        "tempo": 130.089,
+        "genre": [
+            "pop"
+        ],
+        "acousticness": 0.0737,
+        "instrumentalness": null,
+        "energy": 0.656,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 4
+    }
+]
