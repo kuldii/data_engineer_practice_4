@@ -131,6 +131,18 @@ for data in task1:
 with open("assets/output/3/output_order_by_id_asc.json", "w") as outfile:
     json.dump(dataTask1, outfile, indent=4, ensure_ascii=False)
     
+# TASK 2
+result = db.execute(f"SELECT SUM(duration) as sum, MIN(duration) as min, MAX(duration) as max, AVG(duration) as avg FROM songs")
+task2 = result.fetchone()
+dataDic = dict()
+dataDic["totalDuration"] = task2["sum"]
+dataDic["minDuration"] = task2["min"]
+dataDic["maxDuration"] = task2["max"]
+dataDic["avgDuration"] = task2["avg"]
+
+with open("assets/output/3/output_statistic_duration.json", "w") as outfile:
+    json.dump(dataDic, outfile, indent=4, ensure_ascii=False)
+    
 # TASK 3
 result = db.execute(f"SELECT artist, COUNT(artist) AS total FROM songs GROUP BY artist;")
 task3 = result.fetchall()
