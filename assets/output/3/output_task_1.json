@@ -1,0 +1,395 @@
+[
+    {
+        "id": 1,
+        "artist": "Nickelback",
+        "song": "Far Away",
+        "duration": 238173,
+        "year": 2005,
+        "tempo": 132.918,
+        "genre": [
+            "rock",
+            "metal"
+        ],
+        "acousticness": 0.000681,
+        "instrumentalness": null,
+        "energy": 0.797,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 70
+    },
+    {
+        "id": 2,
+        "artist": "Blue",
+        "song": "If You Come Back",
+        "duration": 207560,
+        "year": 2001,
+        "tempo": 78.375,
+        "genre": [
+            "pop"
+        ],
+        "acousticness": 0.0822,
+        "instrumentalness": null,
+        "energy": 0.707,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 58
+    },
+    {
+        "id": 3,
+        "artist": "3 Doors Down",
+        "song": "Here Without You",
+        "duration": 238733,
+        "year": 2002,
+        "tempo": 143.994,
+        "genre": [
+            "pop",
+            "rock",
+            "metal"
+        ],
+        "acousticness": 0.0492,
+        "instrumentalness": null,
+        "energy": 0.533,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 74
+    },
+    {
+        "id": 4,
+        "artist": "Adele",
+        "song": "Set Fire to the Rain",
+        "duration": 242973,
+        "year": 2011,
+        "tempo": 107.995,
+        "genre": [
+            "pop",
+            "R&B"
+        ],
+        "acousticness": 0.00408,
+        "instrumentalness": null,
+        "energy": 0.67,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 2
+    },
+    {
+        "id": 5,
+        "artist": "Faith Evans",
+        "song": "I Love You",
+        "duration": 267160,
+        "year": 2001,
+        "tempo": 168.004,
+        "genre": [
+            "hip hop",
+            "pop",
+            "R&B"
+        ],
+        "acousticness": 0.00981,
+        "instrumentalness": null,
+        "energy": 0.757,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 53
+    },
+    {
+        "id": 6,
+        "artist": "Shawn Mendes",
+        "song": "Mercy",
+        "duration": 208733,
+        "year": 2017,
+        "tempo": 148.127,
+        "genre": [
+            "pop"
+        ],
+        "acousticness": 0.118,
+        "instrumentalness": null,
+        "energy": 0.674,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 0
+    },
+    {
+        "id": 7,
+        "artist": "Jordin Sparks",
+        "song": "One Step At a Time",
+        "duration": 205160,
+        "year": 2007,
+        "tempo": 102.028,
+        "genre": [
+            "pop",
+            "R&B"
+        ],
+        "acousticness": 0.0825,
+        "instrumentalness": null,
+        "energy": 0.692,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 56
+    },
+    {
+        "id": 8,
+        "artist": "Natalie La Rose",
+        "song": "Somebody",
+        "duration": 189906,
+        "year": 2014,
+        "tempo": 104.99,
+        "genre": [
+            "set()"
+        ],
+        "acousticness": 0.000792,
+        "instrumentalness": null,
+        "energy": 0.52,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 66
+    },
+    {
+        "id": 9,
+        "artist": "Snoop Dogg",
+        "song": "Sweat - Remix",
+        "duration": 195986,
+        "year": 2011,
+        "tempo": 130.02,
+        "genre": [
+            "hip hop",
+            "pop"
+        ],
+        "acousticness": 0.0597,
+        "instrumentalness": null,
+        "energy": 0.732,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 68
+    },
+    {
+        "id": 10,
+        "artist": "Calvin Harris",
+        "song": "How Deep Is Your Love",
+        "duration": 212640,
+        "year": 2015,
+        "tempo": 122.003,
+        "genre": [
+            "hip hop",
+            "pop",
+            "Dance/Electronic"
+        ],
+        "acousticness": 0.0392,
+        "instrumentalness": null,
+        "energy": 0.868,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 76
+    },
+    {
+        "id": 11,
+        "artist": "Gwen Stefani",
+        "song": "Cool",
+        "duration": 189333,
+        "year": 2004,
+        "tempo": 112.019,
+        "genre": [
+            "pop",
+            "R&B"
+        ],
+        "acousticness": 0.0322,
+        "instrumentalness": null,
+        "energy": 0.721,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 59
+    },
+    {
+        "id": 12,
+        "artist": "David Guetta",
+        "song": "Flames",
+        "duration": 194680,
+        "year": 2018,
+        "tempo": 93.95,
+        "genre": [
+            "hip hop",
+            "pop",
+            "Dance/Electronic"
+        ],
+        "acousticness": 0.0817,
+        "instrumentalness": null,
+        "energy": 0.649,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 59
+    },
+    {
+        "id": 13,
+        "artist": "Brandy",
+        "song": "What About Us?",
+        "duration": 253200,
+        "year": 2002,
+        "tempo": 93.118,
+        "genre": [
+            "hip hop",
+            "pop",
+            "R&B"
+        ],
+        "acousticness": 0.263,
+        "instrumentalness": null,
+        "energy": 0.698,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 43
+    },
+    {
+        "id": 14,
+        "artist": "Alexandra Burke",
+        "song": "Bad Boys (feat. Flo Rida)",
+        "duration": 206480,
+        "year": 2009,
+        "tempo": 140.029,
+        "genre": [
+            "pop"
+        ],
+        "acousticness": 0.0115,
+        "instrumentalness": null,
+        "energy": 0.866,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 57
+    },
+    {
+        "id": 15,
+        "artist": "Imagine Dragons",
+        "song": "Believer",
+        "duration": 204346,
+        "year": 2017,
+        "tempo": 124.982,
+        "genre": [
+            "rock"
+        ],
+        "acousticness": 0.0524,
+        "instrumentalness": null,
+        "energy": 0.787,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 1
+    },
+    {
+        "id": 16,
+        "artist": "Rihanna",
+        "song": "Don't Stop The Music",
+        "duration": 267080,
+        "year": 2008,
+        "tempo": 122.668,
+        "genre": [
+            "hip hop",
+            "pop",
+            "R&B"
+        ],
+        "acousticness": 0.0336,
+        "instrumentalness": null,
+        "energy": 0.669,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 77
+    },
+    {
+        "id": 17,
+        "artist": "Ariana Grande",
+        "song": "Love Me Harder",
+        "duration": 236133,
+        "year": 2014,
+        "tempo": 98.992,
+        "genre": [
+            "pop"
+        ],
+        "acousticness": 0.00937,
+        "instrumentalness": null,
+        "energy": 0.714,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 74
+    },
+    {
+        "id": 18,
+        "artist": "Lady Gaga",
+        "song": "Alejandro",
+        "duration": 274213,
+        "year": 2009,
+        "tempo": 98.998,
+        "genre": [
+            "pop"
+        ],
+        "acousticness": 0.000397,
+        "instrumentalness": null,
+        "energy": 0.793,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 67
+    },
+    {
+        "id": 19,
+        "artist": "Maroon 5",
+        "song": "Sugar",
+        "duration": 235493,
+        "year": 2014,
+        "tempo": 120.042,
+        "genre": [
+            "pop"
+        ],
+        "acousticness": 0.0553,
+        "instrumentalness": null,
+        "energy": 0.783,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 0
+    },
+    {
+        "id": 20,
+        "artist": "Lil Wayne",
+        "song": "A Milli",
+        "duration": 221840,
+        "year": 2008,
+        "tempo": 151.486,
+        "genre": [
+            "hip hop",
+            "pop"
+        ],
+        "acousticness": 0.0387,
+        "instrumentalness": null,
+        "energy": 0.695,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 69
+    },
+    {
+        "id": 21,
+        "artist": "Lupe Fiasco",
+        "song": "The Show Goes On",
+        "duration": 239613,
+        "year": 2011,
+        "tempo": 143.067,
+        "genre": [
+            "hip hop",
+            "pop"
+        ],
+        "acousticness": 0.0189,
+        "instrumentalness": null,
+        "energy": 0.889,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 70
+    },
+    {
+        "id": 22,
+        "artist": "Katy Perry",
+        "song": "Hot N Cold",
+        "duration": 220226,
+        "year": 2008,
+        "tempo": 132.032,
+        "genre": [
+            "pop"
+        ],
+        "acousticness": 7.95e-05,
+        "instrumentalness": null,
+        "energy": 0.841,
+        "loudness": null,
+        "explicit": null,
+        "popularity": 73
+    }
+]
