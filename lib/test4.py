@@ -150,3 +150,25 @@ for data in result.fetchall():
 
 with open("assets/output/4/output_most_updated.json", "w") as outfile:
     json.dump(output_most_updated, outfile, indent=4, ensure_ascii=False)
+    
+    
+resultCategory = db.execute("SELECT category FROM products GROUP BY category")
+
+output_statistic_category = []
+categoryName = []
+for data in resultCategory.fetchall():
+    if(data["category"] != None):
+        dataCategory = dict()
+        category = data["category"]
+        dataCategory["category"] = category
+        categoryName.append(category)
+        resultStatistic = db.execute(f"SELECT SUM(price) as total_price, MIN(price) as min_price, MAX(price) as max_price, AVG(price) as avg_price FROM products WHERE category = '{category}'")
+        dataResultStatistic = resultStatistic.fetchone()
+        dataCategory["total_price"] = dataResultStatistic["total_price"]
+        dataCategory["min_price"] = dataResultStatistic["min_price"]
+        dataCategory["max_price"] = dataResultStatistic["max_price"]
+        dataCategory["avg_price"] = dataResultStatistic["avg_price"]
+        output_statistic_category.append(dataCategory)
+
+with open("assets/output/4/output_statistic_category.json", "w") as outfile:
+    json.dump(output_statistic_category, outfile, indent=4, ensure_ascii=False)
