@@ -1,0 +1,112 @@
+[
+    {
+        "id": 30,
+        "name": "amazing conditioner",
+        "price": 70.363,
+        "quantity": 8571,
+        "city": "Камбадос",
+        "isAvailable": false,
+        "views": 56062,
+        "category": "cosmetics",
+        "updated": 192
+    },
+    {
+        "id": 63,
+        "name": "glamorous body wash",
+        "price": 3612.0,
+        "quantity": 3636,
+        "city": "Кордова",
+        "isAvailable": true,
+        "views": 54840,
+        "category": "cosmetics",
+        "updated": 176
+    },
+    {
+        "id": 100,
+        "name": "glamorous body wash",
+        "price": 3485.0,
+        "quantity": 3509,
+        "city": "Вальядолид",
+        "isAvailable": true,
+        "views": 19092,
+        "category": "cosmetics",
+        "updated": 176
+    },
+    {
+        "id": 142,
+        "name": "magnificent shovel",
+        "price": 412.23,
+        "quantity": 3129,
+        "city": "Авилес",
+        "isAvailable": true,
+        "views": 96610,
+        "category": "tools",
+        "updated": 176
+    },
+    {
+        "id": 165,
+        "name": "pleasant lip balm",
+        "price": 0.09,
+        "quantity": 5493,
+        "city": "Картахена",
+        "isAvailable": true,
+        "views": 82335,
+        "category": "cosmetics",
+        "updated": 160
+    },
+    {
+        "id": 42,
+        "name": "exquisite apple",
+        "price": 2276.0,
+        "quantity": 2201,
+        "city": "Кордова",
+        "isAvailable": false,
+        "views": 54855,
+        "category": "fruit",
+        "updated": 128
+    },
+    {
+        "id": 119,
+        "name": "tasteful level",
+        "price": 4271.0,
+        "quantity": 4326,
+        "city": "Сараево",
+        "isAvailable": true,
+        "views": 39023,
+        "category": "tools",
+        "updated": 128
+    },
+    {
+        "id": 187,
+        "name": "tasteful body wash",
+        "price": 8.0,
+        "quantity": 2674,
+        "city": "Алькала-де-Энарес",
+        "isAvailable": false,
+        "views": 73911,
+        "category": "cosmetics",
+        "updated": 128
+    },
+    {
+        "id": 195,
+        "name": "delightful electrical",
+        "price": 0.56,
+        "quantity": 2669,
+        "city": "Рига",
+        "isAvailable": true,
+        "views": 36985,
+        "category": "tools",
+        "updated": 112
+    },
+    {
+        "id": 158,
+        "name": "beautiful peach",
+        "price": 3890.0,
+        "quantity": 3867,
+        "city": "Санхенхо",
+        "isAvailable": true,
+        "views": 45791,
+        "category": "fruit",
+        "updated": 96
+    }
+]
