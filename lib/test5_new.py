@@ -64,19 +64,21 @@ def createTableTransactions(cursor):
             id                  INTEGER PRIMARY KEY AUTOINCREMENT,
             date                TEXT (100),
             total               INTEGER,
-            customer_id         FOREIGN KEY (customer_id) REFERENCES customers(id),
-            book_id             FOREIGN KEY (book_id) REFERENCES books(id)
+            customer_id         INTEGER,
+            book_id             INTEGER,
+            FOREIGN KEY (customer_id) REFERENCES customers(id),
+            FOREIGN KEY (book_id) REFERENCES books(id)
         )
     ''')
 
 def createTableCustomers(cursor):
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS customers (
-            id          INTEGER PRIMARY KEY AUTOINCREMENT,
-            name        TEXT (255),
-            address     TEXT (255),
-            age         INTEGER,
-            sex         TEXT (50)
+            id              INTEGER PRIMARY KEY AUTOINCREMENT,
+            name            TEXT (255),
+            address         TEXT (255),
+            age             INTEGER,
+            sex             TEXT (50)
         )
     ''')
     
@@ -237,3 +239,37 @@ allBooks = getDataCsvFile(bookFileName, ext)
 allCustomers = getDataCsvFile(customerFileName, ext)
 allTransactions = getDataCsvFile(transactionFileName, ext)
 
+dbName = 'assets/database/database.db'
+
+conn = connectToSQLite(dbName)
+cursor = conn.cursor()
+
+createTableBooks(cursor)
+createTableCustomers(cursor)
+createTableTransactions(cursor)
+
+books = queryExecute(cursor, "SELECT * FROM books")
+customers = queryExecute(cursor, "SELECT * FROM customers")
+transactions = queryExecute(cursor, "SELECT * FROM transactions")
+
+if(len(books) == 0 and len(customers) == 0 and len(transactions) == 0):
+    for book in books:
+        bookInstance = Book.from_dict(book)
+        insertBook(cursor, bookInstance)
+        
+    for customer in customers:
+        customerInstance = Customer.from_dict(customer)
+        insertBook(cursor, customerInstance)
+        
+    for transaction in transactions:
+        transactionInstance = Transaction.from_dict(transaction)
+        insertBook(cursor, transactionInstance)
+        
+        
+books = queryExecute(cursor, "SELECT * FROM books")
+customers = queryExecute(cursor, "SELECT * FROM customers")
+transactions = queryExecute(cursor, "SELECT * FROM transactions")
+
+print(books)
+
+close_connection(conn)

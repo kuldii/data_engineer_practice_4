@@ -174,14 +174,14 @@ if(len(products) == 0):
             updateProduct(conn, cursor, f"DELETE FROM products WHERE name = '{name}'")
         elif(method == "price_abs"):
             queryResult = queryProduct(cursor, f"SELECT id, price, updated FROM products WHERE name = '{name}'")
-            dataJsonResult = fromFetchToJson(queryResult, toList=True)
+            dataJsonResult = fromFetchToJson(cursor, queryResult, toList=True)
             for dataJson in dataJsonResult:
                 updated = dataJson["updated"] + 1
                 id = dataJson["id"]
                 updateProduct(conn, cursor, f"UPDATE products SET price = {abs(float(param))}, updated = {updated} WHERE id = {id}")
         elif(method == "quantity_sub"):
             queryResult = queryProduct(cursor, f"SELECT id, quantity, updated FROM products WHERE name = '{name}'")
-            dataJsonResult = fromFetchToJson(queryResult, toList=True)
+            dataJsonResult = fromFetchToJson(cursor, queryResult, toList=True)
             for dataJson in dataJsonResult:
                 updated = dataJson["updated"] + 1
                 id = dataJson["id"]
@@ -190,14 +190,14 @@ if(len(products) == 0):
                     updateProduct(conn, cursor, f"UPDATE products SET quantity = {quantity}, updated = {updated} WHERE id = {id}")
         elif(method == "available"):
             queryResult = queryProduct(cursor, f"SELECT id, is_available, updated FROM products WHERE name = '{name}'")
-            dataJsonResult = fromFetchToJson(queryResult, toList=True)
+            dataJsonResult = fromFetchToJson(cursor, queryResult, toList=True)
             for dataJson in dataJsonResult:
                 updated = dataJson["updated"] + 1
                 id = dataJson["id"]
                 updateProduct(conn, cursor, f"UPDATE products SET is_available = {param}, updated = {updated} WHERE id = {id}")
         elif(method == "quantity_add"):
             queryResult = queryProduct(cursor, f"SELECT id, quantity, updated FROM products WHERE name = '{name}'")
-            dataJsonResult = fromFetchToJson(queryResult, toList=True)
+            dataJsonResult = fromFetchToJson(cursor, queryResult, toList=True)
             for dataJson in dataJsonResult:
                 updated = dataJson["updated"] + 1
                 id = dataJson["id"]
@@ -206,7 +206,7 @@ if(len(products) == 0):
                     updateProduct(conn, cursor, f"UPDATE products SET quantity = {quantity}, updated = {updated} WHERE id = {id}")
         elif(method == "price_percent"):
             queryResult = queryProduct(cursor, f"SELECT id, price, updated FROM products WHERE name = '{name}'")
-            dataJsonResult = fromFetchToJson(queryResult, toList=True)
+            dataJsonResult = fromFetchToJson(cursor, queryResult, toList=True)
             for dataJson in dataJsonResult:
                 updated = dataJson["updated"] + 1
                 id = dataJson["id"]
@@ -218,21 +218,21 @@ if(len(products) == 0):
 # 1) вывести топ-10 самых обновляемых товаров
 sqlCommand = f'SELECT * FROM products ORDER BY updated DESC LIMIT 10'
 queryResult = queryProduct(cursor, sqlCommand)
-dataJson = fromFetchToJson(queryResult, toList=False)
+dataJson = fromFetchToJson(cursor, queryResult, toList=False)
 dataJsonResult = json.dumps(dataJson, indent=4, cls=NpEncoder, ensure_ascii=False)
 saveToJson("output_1.json", dataJsonResult)
 
 # 2) проанализировать цены товаров, найдя (сумму, мин, макс, среднее) для каждой группы, а также количество товаров в группе
 sqlCommand = f'SELECT category, COUNT(*) AS totalData, SUM(price) AS sumPrice, MIN(price) AS minPrice, MAX(price) as maxPrice, AVG(price) as avgPrice FROM products GROUP BY category'
 queryResult = queryProduct(cursor, sqlCommand)
-dataJson = fromFetchToJson(queryResult, toList=False)
+dataJson = fromFetchToJson(cursor, queryResult, toList=False)
 dataJsonResult = json.dumps(dataJson, indent=4, cls=NpEncoder, ensure_ascii=False)
 saveToJson("output_2.json", dataJsonResult)
 
 # 3) проанализировать остатки товаров, найдя (сумму, мин, макс, среднее) для каждой группы товаров
 sqlCommand = f'SELECT category, SUM(quantity) AS sumQuantity, MIN(quantity) AS minQuantity, MAX(quantity) as maxQuantity, AVG(quantity) as avgQuantity FROM products GROUP BY category'
 queryResult = queryProduct(cursor, sqlCommand)
-dataJson = fromFetchToJson(queryResult, toList=False)
+dataJson = fromFetchToJson(cursor, queryResult, toList=False)
 dataJsonResult = json.dumps(dataJson, indent=4, cls=NpEncoder, ensure_ascii=False)
 saveToJson("output_3.json", dataJsonResult)
 
