@@ -121,7 +121,7 @@ varian = 12
 
 allData = getDataPklFile(fileName, ".pkl")
 
-dbName = 'assets/database/resolved/database.db'
+dbName = 'assets/database/database.db'
 
 conn = connectToSQLite(dbName)
 cursor = conn.cursor()
