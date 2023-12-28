@@ -151,9 +151,6 @@ fileNameUpdate = "task_4_var_12_update_data"
 allData = getDataJsonFile(fileName, ".json")
 allUpdated = getDataTextFile(fileNameUpdate, ".text")
 
-# exampel
-# {'name': 'glamorous baseboard', 'price': 96.84, 'quantity': 717, 'category': 'tools', 'fromCity': 'Любляна', 'isAvailable': False, 'views': 45618}
-
 dbName = 'assets/database/database.db'
 
 conn = connectToSQLite(dbName)
