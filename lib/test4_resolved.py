@@ -10,7 +10,7 @@ def printJson(dataJson):
     print("============================")
     print(dataJson)
     
-def fromFetchToJson(allData, toList):
+def fromFetchToJson(cursor, allData, toList):
     columns = [desc[0] for desc in cursor.description]
     if (toList == True):
         return [dict(zip(columns, row)) for row in allData]
