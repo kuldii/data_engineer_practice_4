@@ -1,0 +1,504 @@
+title,writer,price,category,year,rating
+Harry Potter,J.K. Rowling,25.0,Science Fiction,1950,3.7
+To Kill a Mockingbird,Harper Lee,20.0,Non-Fiction,2015,1.6
+1984,George Orwell,18.5,Science Fiction,2005,4.7
+The Lord of the Rings,J.R.R. Tolkien,16.31,Non-Fiction,1963,4.4
+The Odyssey,Homer,28.03,Fiction,1988,2.5
+The Lord of the Rings,J.R.R. Tolkien,13.57,Young Adult,1950,1.2
+The Lord of the Rings,J.R.R. Tolkien,22.24,Children's,2014,1.9
+Wuthering Heights,Emily Bronte,24.32,Children's,1962,3.2
+Jane Eyre,Charlotte Bronte,28.04,Mystery,2015,4.6
+The Iliad,Homer,28.24,Fantasy,1973,2.2
+Animal Farm,George Orwell,10.79,Fiction,1954,3.6
+Brave New World,Aldous Huxley,13.45,Historical,1999,4.7
+The Great Gatsby,F. Scott Fitzgerald,28.98,Historical,1969,3.4
+The Lord of the Rings,J.R.R. Tolkien,10.62,Classic,2014,2.8
+The Iliad,Homer,11.66,Science Fiction,1960,2.9
+Moby-Dick,Herman Melville,17.14,Young Adult,1958,1.9
+Don Quixote,Miguel de Cervantes,17.52,Science Fiction,1996,4.9
+Moby-Dick,Herman Melville,25.24,Science Fiction,2012,3.2
+Brave New World,Aldous Huxley,27.77,Mystery,1976,4.2
+The Chronicles of Narnia,C.S. Lewis,17.22,Biography,1967,2.4
+Jane Eyre,Charlotte Bronte,14.79,Classic,1980,4.3
+The Lord of the Rings,J.R.R. Tolkien,19.55,Non-Fiction,1973,4.1
+The Lord of the Rings,J.R.R. Tolkien,12.91,Science Fiction,1996,3.1
+Jane Eyre,Charlotte Bronte,15.77,Young Adult,1966,1.4
+The Lord of the Rings,J.R.R. Tolkien,28.12,Fantasy,1953,2.7
+Pride and Prejudice,Jane Austen,23.24,Historical,1984,1.1
+Don Quixote,Miguel de Cervantes,21.62,Non-Fiction,2001,3.9
+Don Quixote,Miguel de Cervantes,25.66,Science Fiction,1967,2.2
+The Iliad,Homer,25.31,Mystery,1966,2.9
+The Chronicles of Narnia,C.S. Lewis,25.62,Non-Fiction,2004,1.3
+The Great Gatsby,F. Scott Fitzgerald,17.48,Historical,2004,3.5
+The Odyssey,Homer,16.3,Non-Fiction,2011,2.3
+The Iliad,Homer,16.34,Fiction,1984,1.9
+Moby-Dick,Herman Melville,16.01,Non-Fiction,1992,4.6
+Moby-Dick,Herman Melville,24.32,Mystery,1964,1.2
+Pride and Prejudice,Jane Austen,18.94,Non-Fiction,1992,3.8
+Jane Eyre,Charlotte Bronte,16.47,Children's,1951,2.2
+Crime and Punishment,Fyodor Dostoevsky,17.13,Fiction,2012,4.3
+The Catcher in the Rye,J.D. Salinger,24.17,Classic,2010,2.7
+Wuthering Heights,Emily Bronte,13.98,Fantasy,2012,3.0
+The Odyssey,Homer,21.89,Young Adult,1983,4.5
+Crime and Punishment,Fyodor Dostoevsky,28.47,Classic,1979,3.4
+Brave New World,Aldous Huxley,21.49,Biography,2014,3.8
+Animal Farm,George Orwell,12.86,Fiction,2011,1.6
+Don Quixote,Miguel de Cervantes,14.16,Fantasy,1967,2.4
+Crime and Punishment,Fyodor Dostoevsky,18.8,Fiction,1992,3.8
+Animal Farm,George Orwell,14.88,Historical,1989,4.2
+The Lord of the Rings,J.R.R. Tolkien,24.85,Children's,1965,3.9
+Animal Farm,George Orwell,24.23,Fiction,2020,2.8
+Crime and Punishment,Fyodor Dostoevsky,12.09,Biography,2017,3.6
+The Iliad,Homer,29.94,Young Adult,2003,3.3
+Pride and Prejudice,Jane Austen,17.22,Historical,2000,3.4
+Don Quixote,Miguel de Cervantes,23.83,Non-Fiction,2006,2.0
+The Lord of the Rings,J.R.R. Tolkien,29.08,Science Fiction,1981,4.9
+War and Peace,Leo Tolstoy,23.48,Biography,1993,4.6
+The Great Gatsby,F. Scott Fitzgerald,23.86,Historical,1970,2.0
+Animal Farm,George Orwell,27.57,Classic,2007,3.8
+The Lord of the Rings,J.R.R. Tolkien,15.8,Fiction,1996,1.4
+The Lord of the Rings,J.R.R. Tolkien,20.5,Children's,1981,3.6
+The Chronicles of Narnia,C.S. Lewis,24.0,Biography,1992,3.0
+Crime and Punishment,Fyodor Dostoevsky,26.96,Non-Fiction,1989,1.6
+Moby-Dick,Herman Melville,20.62,Young Adult,1965,3.7
+Wuthering Heights,Emily Bronte,23.9,Non-Fiction,1967,4.2
+The Lord of the Rings,J.R.R. Tolkien,16.77,Young Adult,2020,4.8
+The Iliad,Homer,21.19,Children's,1997,1.2
+War and Peace,Leo Tolstoy,21.96,Historical,2014,4.2
+Brave New World,Aldous Huxley,18.82,Historical,2015,4.4
+The Catcher in the Rye,J.D. Salinger,10.33,Fiction,2007,2.1
+The Chronicles of Narnia,C.S. Lewis,22.29,Science Fiction,1989,3.4
+The Iliad,Homer,27.16,Biography,2005,1.9
+The Chronicles of Narnia,C.S. Lewis,17.49,Fiction,2017,4.8
+Don Quixote,Miguel de Cervantes,20.22,Children's,1994,2.2
+The Odyssey,Homer,15.17,Historical,1988,2.9
+Pride and Prejudice,Jane Austen,10.8,Fiction,1991,2.9
+The Great Gatsby,F. Scott Fitzgerald,15.12,Children's,2011,1.8
+The Iliad,Homer,17.62,Biography,1970,2.0
+The Great Gatsby,F. Scott Fitzgerald,19.76,Young Adult,1953,4.2
+Wuthering Heights,Emily Bronte,12.57,Fantasy,1953,4.5
+Don Quixote,Miguel de Cervantes,18.54,Biography,1969,1.6
+War and Peace,Leo Tolstoy,10.66,Non-Fiction,1996,3.2
+Brave New World,Aldous Huxley,21.94,Young Adult,1957,2.8
+Pride and Prejudice,Jane Austen,10.13,Children's,1960,1.6
+The Odyssey,Homer,11.05,Biography,1952,4.9
+Don Quixote,Miguel de Cervantes,19.66,Classic,1980,3.8
+The Chronicles of Narnia,C.S. Lewis,26.04,Children's,1993,2.5
+War and Peace,Leo Tolstoy,25.79,Non-Fiction,1954,1.9
+The Chronicles of Narnia,C.S. Lewis,26.06,Mystery,1978,2.2
+The Great Gatsby,F. Scott Fitzgerald,28.94,Biography,2001,3.3
+The Odyssey,Homer,23.66,Young Adult,2013,1.6
+The Iliad,Homer,21.59,Biography,1956,2.4
+The Catcher in the Rye,J.D. Salinger,18.11,Science Fiction,1988,2.4
+Don Quixote,Miguel de Cervantes,26.3,Children's,1966,3.2
+Animal Farm,George Orwell,25.49,Young Adult,1995,2.3
+Brave New World,Aldous Huxley,25.25,Biography,1981,4.7
+The Great Gatsby,F. Scott Fitzgerald,23.09,Non-Fiction,2016,3.4
+Animal Farm,George Orwell,24.92,Mystery,1977,2.9
+The Lord of the Rings,J.R.R. Tolkien,29.65,Fantasy,1985,3.1
+Pride and Prejudice,Jane Austen,18.12,Mystery,1995,2.0
+The Great Gatsby,F. Scott Fitzgerald,27.4,Young Adult,1978,3.1
+The Chronicles of Narnia,C.S. Lewis,14.24,Fiction,2008,4.9
+War and Peace,Leo Tolstoy,25.51,Historical,1982,4.8
+Wuthering Heights,Emily Bronte,10.62,Classic,1990,4.1
+Moby-Dick,Herman Melville,18.26,Classic,2018,1.7
+Don Quixote,Miguel de Cervantes,22.47,Children's,1998,3.6
+The Odyssey,Homer,10.63,Science Fiction,2012,2.1
+The Catcher in the Rye,J.D. Salinger,15.3,Children's,1992,4.6
+The Odyssey,Homer,12.49,Biography,1968,2.6
+The Lord of the Rings,J.R.R. Tolkien,25.35,Biography,1973,1.9
+Moby-Dick,Herman Melville,13.95,Historical,2021,4.4
+The Chronicles of Narnia,C.S. Lewis,17.91,Science Fiction,1974,1.6
+Wuthering Heights,Emily Bronte,13.8,Mystery,2022,4.2
+War and Peace,Leo Tolstoy,19.76,Science Fiction,2016,4.0
+Don Quixote,Miguel de Cervantes,10.95,Historical,1993,4.6
+Brave New World,Aldous Huxley,15.03,Non-Fiction,2009,4.1
+The Lord of the Rings,J.R.R. Tolkien,20.45,Classic,1955,1.1
+Jane Eyre,Charlotte Bronte,10.88,Classic,1976,1.3
+The Chronicles of Narnia,C.S. Lewis,29.02,Biography,1993,4.3
+The Iliad,Homer,25.21,Fiction,1996,1.7
+The Odyssey,Homer,11.79,Science Fiction,1960,1.2
+Animal Farm,George Orwell,29.0,Classic,1955,2.0
+Animal Farm,George Orwell,10.79,Biography,1998,3.2
+Brave New World,Aldous Huxley,26.24,Science Fiction,1977,3.0
+Don Quixote,Miguel de Cervantes,15.95,Non-Fiction,2018,4.1
+War and Peace,Leo Tolstoy,24.72,Young Adult,2006,1.4
+Don Quixote,Miguel de Cervantes,15.27,Young Adult,1984,1.4
+Brave New World,Aldous Huxley,25.72,Fantasy,1955,3.5
+Crime and Punishment,Fyodor Dostoevsky,12.76,Mystery,1973,2.9
+The Chronicles of Narnia,C.S. Lewis,15.83,Non-Fiction,1994,4.4
+The Odyssey,Homer,24.16,Fantasy,1971,3.8
+Pride and Prejudice,Jane Austen,18.05,Fiction,1973,2.3
+The Chronicles of Narnia,C.S. Lewis,20.96,Fantasy,1976,2.6
+Moby-Dick,Herman Melville,29.12,Classic,1963,2.5
+The Great Gatsby,F. Scott Fitzgerald,11.62,Fiction,1951,3.2
+Don Quixote,Miguel de Cervantes,20.42,Classic,1975,4.0
+Don Quixote,Miguel de Cervantes,10.86,Classic,1979,3.2
+The Iliad,Homer,10.1,Historical,2017,1.3
+Moby-Dick,Herman Melville,20.61,Non-Fiction,2009,3.0
+Don Quixote,Miguel de Cervantes,28.56,Biography,1956,3.7
+Crime and Punishment,Fyodor Dostoevsky,19.78,Mystery,2005,3.8
+The Great Gatsby,F. Scott Fitzgerald,25.82,Historical,1964,4.7
+The Odyssey,Homer,25.92,Fiction,2011,2.1
+Wuthering Heights,Emily Bronte,26.59,Biography,2010,1.8
+The Catcher in the Rye,J.D. Salinger,25.64,Historical,2008,1.8
+The Chronicles of Narnia,C.S. Lewis,23.82,Children's,1982,1.6
+The Iliad,Homer,10.5,Young Adult,1964,2.6
+War and Peace,Leo Tolstoy,19.2,Classic,1988,1.7
+Don Quixote,Miguel de Cervantes,24.27,Biography,1997,2.1
+The Lord of the Rings,J.R.R. Tolkien,28.58,Fiction,1959,3.7
+Jane Eyre,Charlotte Bronte,28.13,Historical,1965,3.4
+Don Quixote,Miguel de Cervantes,10.2,Biography,2020,2.0
+The Chronicles of Narnia,C.S. Lewis,15.76,Fantasy,1983,4.7
+The Lord of the Rings,J.R.R. Tolkien,22.03,Historical,1980,2.4
+Jane Eyre,Charlotte Bronte,21.14,Fantasy,2023,2.2
+Jane Eyre,Charlotte Bronte,26.75,Non-Fiction,1954,5.0
+Wuthering Heights,Emily Bronte,10.49,Mystery,2008,2.6
+Pride and Prejudice,Jane Austen,27.35,Young Adult,2002,2.6
+Brave New World,Aldous Huxley,19.98,Mystery,1982,3.5
+Jane Eyre,Charlotte Bronte,13.57,Children's,2002,2.9
+Moby-Dick,Herman Melville,19.81,Fantasy,1986,4.6
+The Iliad,Homer,28.42,Fiction,2003,4.9
+The Lord of the Rings,J.R.R. Tolkien,10.56,Science Fiction,1950,3.1
+Pride and Prejudice,Jane Austen,24.46,Young Adult,2014,3.4
+War and Peace,Leo Tolstoy,20.09,Fantasy,1988,4.7
+The Odyssey,Homer,28.06,Mystery,1957,2.9
+Wuthering Heights,Emily Bronte,25.77,Young Adult,2000,3.3
+Animal Farm,George Orwell,25.33,Classic,1989,3.7
+Crime and Punishment,Fyodor Dostoevsky,27.95,Fiction,1997,3.1
+The Great Gatsby,F. Scott Fitzgerald,13.35,Non-Fiction,1989,3.3
+The Odyssey,Homer,24.15,Historical,1969,1.1
+The Chronicles of Narnia,C.S. Lewis,26.16,Fiction,2023,4.1
+The Chronicles of Narnia,C.S. Lewis,22.1,Young Adult,1965,2.9
+Animal Farm,George Orwell,24.8,Classic,1952,4.6
+Animal Farm,George Orwell,24.85,Science Fiction,2011,2.4
+The Great Gatsby,F. Scott Fitzgerald,26.48,Children's,1993,2.6
+War and Peace,Leo Tolstoy,12.86,Mystery,2010,2.1
+The Great Gatsby,F. Scott Fitzgerald,19.02,Children's,1960,4.3
+Wuthering Heights,Emily Bronte,13.97,Historical,2003,1.1
+Crime and Punishment,Fyodor Dostoevsky,17.62,Non-Fiction,1986,3.1
+The Odyssey,Homer,19.71,Children's,2004,4.2
+Brave New World,Aldous Huxley,29.28,Mystery,1960,2.8
+The Odyssey,Homer,17.06,Historical,1982,4.7
+Moby-Dick,Herman Melville,12.69,Historical,1986,1.3
+Animal Farm,George Orwell,22.49,Science Fiction,1972,4.7
+Crime and Punishment,Fyodor Dostoevsky,21.51,Mystery,1977,2.7
+The Great Gatsby,F. Scott Fitzgerald,20.12,Children's,1961,1.9
+The Chronicles of Narnia,C.S. Lewis,25.98,Children's,2016,3.0
+The Iliad,Homer,10.91,Fantasy,1954,1.5
+The Lord of the Rings,J.R.R. Tolkien,23.77,Mystery,2015,2.5
+Brave New World,Aldous Huxley,21.94,Fantasy,2018,1.1
+The Odyssey,Homer,28.22,Classic,1981,1.7
+Don Quixote,Miguel de Cervantes,21.77,Biography,1998,4.0
+War and Peace,Leo Tolstoy,14.21,Fantasy,1951,3.6
+Wuthering Heights,Emily Bronte,21.84,Mystery,1975,4.1
+Moby-Dick,Herman Melville,23.11,Young Adult,2008,1.5
+War and Peace,Leo Tolstoy,21.74,Science Fiction,2007,3.0
+Moby-Dick,Herman Melville,28.65,Children's,1975,1.1
+The Lord of the Rings,J.R.R. Tolkien,16.98,Young Adult,2003,1.6
+The Great Gatsby,F. Scott Fitzgerald,12.51,Biography,2000,1.9
+War and Peace,Leo Tolstoy,17.7,Historical,1996,3.1
+The Great Gatsby,F. Scott Fitzgerald,17.53,Non-Fiction,1964,1.9
+The Great Gatsby,F. Scott Fitzgerald,22.16,Non-Fiction,2000,4.7
+Moby-Dick,Herman Melville,18.07,Science Fiction,2012,4.0
+The Lord of the Rings,J.R.R. Tolkien,29.13,Biography,1977,1.2
+Pride and Prejudice,Jane Austen,19.82,Biography,2021,2.4
+Crime and Punishment,Fyodor Dostoevsky,23.7,Science Fiction,1973,1.3
+Animal Farm,George Orwell,20.17,Non-Fiction,1988,4.8
+The Lord of the Rings,J.R.R. Tolkien,15.94,Fiction,2004,2.5
+Don Quixote,Miguel de Cervantes,27.05,Historical,1968,1.5
+The Odyssey,Homer,11.64,Classic,1958,3.4
+The Odyssey,Homer,15.65,Historical,1989,1.1
+Crime and Punishment,Fyodor Dostoevsky,25.86,Fiction,1950,1.6
+The Iliad,Homer,23.01,Fantasy,2000,1.3
+Brave New World,Aldous Huxley,21.88,Classic,1984,3.3
+The Odyssey,Homer,25.04,Fantasy,2001,3.4
+The Iliad,Homer,18.26,Science Fiction,1966,2.8
+Don Quixote,Miguel de Cervantes,20.13,Fiction,1969,1.7
+The Catcher in the Rye,J.D. Salinger,27.85,Biography,2003,1.4
+Pride and Prejudice,Jane Austen,25.39,Classic,2013,4.3
+The Catcher in the Rye,J.D. Salinger,12.65,Mystery,2020,2.2
+Crime and Punishment,Fyodor Dostoevsky,20.75,Biography,2004,3.4
+The Lord of the Rings,J.R.R. Tolkien,15.02,Children's,1987,4.2
+Pride and Prejudice,Jane Austen,24.01,Science Fiction,2002,4.5
+The Great Gatsby,F. Scott Fitzgerald,20.7,Young Adult,1977,1.5
+Animal Farm,George Orwell,17.51,Historical,2016,2.7
+Wuthering Heights,Emily Bronte,18.66,Non-Fiction,1976,3.1
+Jane Eyre,Charlotte Bronte,29.52,Historical,1960,1.8
+Pride and Prejudice,Jane Austen,25.17,Fiction,1984,4.0
+The Lord of the Rings,J.R.R. Tolkien,20.48,Science Fiction,2020,4.0
+Moby-Dick,Herman Melville,20.3,Science Fiction,1962,4.1
+Wuthering Heights,Emily Bronte,15.09,Mystery,1971,2.8
+The Lord of the Rings,J.R.R. Tolkien,22.17,Children's,1988,2.4
+Animal Farm,George Orwell,13.66,Fiction,2014,1.2
+The Iliad,Homer,20.18,Historical,2018,4.5
+The Lord of the Rings,J.R.R. Tolkien,15.92,Historical,2003,4.1
+Animal Farm,George Orwell,23.94,Young Adult,1981,1.7
+Wuthering Heights,Emily Bronte,16.91,Young Adult,1952,2.3
+The Lord of the Rings,J.R.R. Tolkien,28.69,Biography,1969,4.4
+The Lord of the Rings,J.R.R. Tolkien,16.09,Non-Fiction,1983,2.8
+War and Peace,Leo Tolstoy,10.82,Non-Fiction,1957,2.5
+The Odyssey,Homer,27.82,Biography,2008,2.0
+Crime and Punishment,Fyodor Dostoevsky,18.24,Children's,1988,4.4
+The Odyssey,Homer,23.24,Fiction,1965,3.6
+Crime and Punishment,Fyodor Dostoevsky,25.25,Fiction,1970,2.4
+Brave New World,Aldous Huxley,24.4,Fiction,2005,3.4
+The Great Gatsby,F. Scott Fitzgerald,18.71,Children's,2008,4.7
+Wuthering Heights,Emily Bronte,28.59,Mystery,2016,2.0
+Don Quixote,Miguel de Cervantes,11.77,Fantasy,1983,3.7
+Don Quixote,Miguel de Cervantes,10.68,Children's,1996,1.4
+Wuthering Heights,Emily Bronte,15.11,Mystery,1985,4.6
+Pride and Prejudice,Jane Austen,23.89,Fantasy,1986,2.3
+Don Quixote,Miguel de Cervantes,18.36,Fiction,1976,2.3
+The Lord of the Rings,J.R.R. Tolkien,22.12,Young Adult,1969,3.2
+The Catcher in the Rye,J.D. Salinger,25.99,Biography,1958,1.9
+The Iliad,Homer,28.17,Biography,2015,1.1
+Jane Eyre,Charlotte Bronte,28.73,Children's,1957,2.0
+Brave New World,Aldous Huxley,25.03,Young Adult,1965,4.4
+Jane Eyre,Charlotte Bronte,26.33,Young Adult,1960,2.2
+The Chronicles of Narnia,C.S. Lewis,29.96,Historical,1955,4.5
+Wuthering Heights,Emily Bronte,16.39,Fiction,2023,2.3
+The Chronicles of Narnia,C.S. Lewis,29.97,Classic,2008,2.3
+Jane Eyre,Charlotte Bronte,27.15,Biography,2019,4.7
+Animal Farm,George Orwell,25.13,Historical,1999,2.6
+Pride and Prejudice,Jane Austen,20.6,Historical,1996,4.8
+Pride and Prejudice,Jane Austen,16.98,Biography,1958,4.4
+The Catcher in the Rye,J.D. Salinger,23.95,Children's,1974,2.8
+The Lord of the Rings,J.R.R. Tolkien,23.06,Historical,1990,1.8
+Pride and Prejudice,Jane Austen,29.59,Mystery,1989,1.1
+The Odyssey,Homer,24.9,Non-Fiction,1971,2.6
+The Catcher in the Rye,J.D. Salinger,12.06,Fiction,1997,2.4
+Moby-Dick,Herman Melville,11.72,Children's,1998,3.6
+Brave New World,Aldous Huxley,23.12,Fiction,1988,4.3
+Wuthering Heights,Emily Bronte,10.76,Fiction,1962,1.7
+Pride and Prejudice,Jane Austen,16.62,Children's,1969,3.3
+The Iliad,Homer,26.12,Non-Fiction,1984,1.4
+Animal Farm,George Orwell,20.35,Historical,2002,3.5
+Don Quixote,Miguel de Cervantes,25.91,Fantasy,1970,4.9
+Animal Farm,George Orwell,10.72,Mystery,1952,1.3
+Crime and Punishment,Fyodor Dostoevsky,16.79,Classic,1998,1.6
+Wuthering Heights,Emily Bronte,23.77,Children's,1972,4.1
+The Chronicles of Narnia,C.S. Lewis,14.04,Fiction,1995,3.9
+Brave New World,Aldous Huxley,27.67,Historical,2022,2.8
+Wuthering Heights,Emily Bronte,17.26,Science Fiction,2002,1.1
+War and Peace,Leo Tolstoy,19.23,Biography,2018,2.4
+The Great Gatsby,F. Scott Fitzgerald,29.3,Fiction,2000,1.9
+The Chronicles of Narnia,C.S. Lewis,10.88,Children's,1962,5.0
+Wuthering Heights,Emily Bronte,18.28,Classic,1952,1.4
+Moby-Dick,Herman Melville,11.66,Classic,2014,4.3
+Pride and Prejudice,Jane Austen,18.93,Biography,2006,3.7
+Crime and Punishment,Fyodor Dostoevsky,19.97,Classic,2010,3.0
+The Lord of the Rings,J.R.R. Tolkien,13.2,Classic,1951,3.9
+Wuthering Heights,Emily Bronte,17.5,Historical,2008,3.3
+Brave New World,Aldous Huxley,14.13,Biography,1961,1.3
+The Chronicles of Narnia,C.S. Lewis,13.85,Children's,1986,3.5
+The Lord of the Rings,J.R.R. Tolkien,20.73,Classic,1999,4.7
+Brave New World,Aldous Huxley,28.44,Fantasy,1955,2.2
+The Chronicles of Narnia,C.S. Lewis,28.92,Non-Fiction,1965,3.7
+Animal Farm,George Orwell,28.78,Young Adult,1954,2.7
+Wuthering Heights,Emily Bronte,25.41,Classic,1954,1.3
+Brave New World,Aldous Huxley,19.48,Biography,2016,4.9
+Brave New World,Aldous Huxley,25.41,Biography,1974,4.2
+Brave New World,Aldous Huxley,29.95,Fantasy,1998,2.4
+The Iliad,Homer,14.81,Science Fiction,1974,4.7
+War and Peace,Leo Tolstoy,20.9,Children's,2000,3.3
+Pride and Prejudice,Jane Austen,24.54,Historical,2010,4.9
+Pride and Prejudice,Jane Austen,28.3,Classic,2012,4.0
+The Catcher in the Rye,J.D. Salinger,11.49,Mystery,1991,3.3
+Jane Eyre,Charlotte Bronte,17.75,Classic,2007,1.7
+The Chronicles of Narnia,C.S. Lewis,16.3,Historical,2011,4.9
+The Odyssey,Homer,21.64,Non-Fiction,1993,4.4
+The Great Gatsby,F. Scott Fitzgerald,13.23,Classic,1952,1.6
+The Iliad,Homer,24.37,Historical,1956,4.4
+Don Quixote,Miguel de Cervantes,29.37,Historical,2005,1.9
+Pride and Prejudice,Jane Austen,26.38,Fantasy,2021,3.5
+The Lord of the Rings,J.R.R. Tolkien,14.3,Children's,2017,2.6
+War and Peace,Leo Tolstoy,29.46,Fantasy,1985,1.2
+The Lord of the Rings,J.R.R. Tolkien,29.01,Mystery,1981,4.6
+The Catcher in the Rye,J.D. Salinger,25.88,Young Adult,1994,4.0
+Jane Eyre,Charlotte Bronte,28.51,Young Adult,1988,2.5
+Brave New World,Aldous Huxley,16.96,Fiction,2016,2.0
+Brave New World,Aldous Huxley,13.18,Children's,2003,2.0
+Moby-Dick,Herman Melville,13.24,Mystery,1957,1.7
+Crime and Punishment,Fyodor Dostoevsky,16.78,Historical,1955,3.7
+Pride and Prejudice,Jane Austen,25.57,Classic,1963,1.3
+The Catcher in the Rye,J.D. Salinger,15.13,Fantasy,1950,1.1
+The Catcher in the Rye,J.D. Salinger,20.99,Fiction,1962,4.0
+War and Peace,Leo Tolstoy,25.92,Mystery,1979,3.3
+War and Peace,Leo Tolstoy,10.6,Mystery,1996,3.3
+Crime and Punishment,Fyodor Dostoevsky,11.04,Historical,2017,4.3
+War and Peace,Leo Tolstoy,27.66,Science Fiction,1980,1.8
+Animal Farm,George Orwell,23.93,Historical,1970,2.2
+The Iliad,Homer,22.19,Biography,2008,1.2
+The Great Gatsby,F. Scott Fitzgerald,21.19,Science Fiction,1994,2.1
+The Great Gatsby,F. Scott Fitzgerald,26.37,Science Fiction,1979,4.8
+Pride and Prejudice,Jane Austen,11.53,Young Adult,2006,2.5
+The Lord of the Rings,J.R.R. Tolkien,18.27,Fantasy,2001,4.0
+Crime and Punishment,Fyodor Dostoevsky,29.61,Non-Fiction,1974,1.7
+Jane Eyre,Charlotte Bronte,12.04,Historical,1999,1.9
+The Iliad,Homer,15.61,Children's,2011,4.8
+Don Quixote,Miguel de Cervantes,16.58,Biography,1957,1.9
+Wuthering Heights,Emily Bronte,27.07,Classic,1965,1.8
+Brave New World,Aldous Huxley,12.7,Biography,1972,3.9
+Crime and Punishment,Fyodor Dostoevsky,26.75,Classic,1968,1.1
+Moby-Dick,Herman Melville,27.85,Young Adult,1987,1.5
+The Great Gatsby,F. Scott Fitzgerald,29.11,Biography,2014,2.3
+War and Peace,Leo Tolstoy,24.32,Fantasy,2017,3.7
+Animal Farm,George Orwell,26.59,Historical,2010,2.4
+Wuthering Heights,Emily Bronte,18.66,Young Adult,2003,2.6
+Jane Eyre,Charlotte Bronte,10.95,Non-Fiction,1969,4.2
+War and Peace,Leo Tolstoy,17.27,Mystery,1980,3.7
+Animal Farm,George Orwell,27.28,Young Adult,1996,4.1
+Wuthering Heights,Emily Bronte,24.21,Classic,1979,1.1
+Wuthering Heights,Emily Bronte,18.57,Biography,2022,1.7
+Animal Farm,George Orwell,27.29,Fiction,1959,1.3
+The Odyssey,Homer,23.83,Children's,1997,3.7
+Pride and Prejudice,Jane Austen,15.11,Historical,1961,1.9
+Moby-Dick,Herman Melville,29.56,Science Fiction,2010,2.2
+War and Peace,Leo Tolstoy,21.01,Young Adult,1952,2.3
+The Chronicles of Narnia,C.S. Lewis,20.44,Mystery,1970,1.2
+War and Peace,Leo Tolstoy,10.32,Non-Fiction,1970,4.9
+The Chronicles of Narnia,C.S. Lewis,12.23,Classic,2010,3.0
+Crime and Punishment,Fyodor Dostoevsky,24.19,Children's,2010,1.6
+The Lord of the Rings,J.R.R. Tolkien,29.64,Young Adult,1953,2.8
+The Lord of the Rings,J.R.R. Tolkien,14.84,Science Fiction,1993,2.3
+The Catcher in the Rye,J.D. Salinger,14.7,Science Fiction,1950,1.1
+Don Quixote,Miguel de Cervantes,25.5,Science Fiction,2005,2.0
+Don Quixote,Miguel de Cervantes,10.25,Biography,1961,2.9
+The Chronicles of Narnia,C.S. Lewis,11.82,Mystery,1956,4.4
+The Iliad,Homer,25.27,Mystery,1956,1.6
+War and Peace,Leo Tolstoy,20.75,Biography,1960,2.6
+The Catcher in the Rye,J.D. Salinger,21.61,Children's,1990,3.4
+Moby-Dick,Herman Melville,14.05,Mystery,2019,3.9
+The Odyssey,Homer,12.07,Young Adult,1985,3.6
+Brave New World,Aldous Huxley,10.98,Science Fiction,1979,2.7
+Animal Farm,George Orwell,10.31,Biography,1961,1.3
+Animal Farm,George Orwell,16.56,Fantasy,1950,4.2
+Pride and Prejudice,Jane Austen,16.0,Fiction,1973,3.2
+Pride and Prejudice,Jane Austen,26.95,Young Adult,1989,1.2
+Jane Eyre,Charlotte Bronte,12.97,Fantasy,1950,2.8
+Moby-Dick,Herman Melville,15.66,Biography,1968,4.8
+Moby-Dick,Herman Melville,10.55,Fiction,2004,2.0
+The Iliad,Homer,24.79,Science Fiction,1978,1.6
+The Odyssey,Homer,19.11,Children's,1981,4.3
+Wuthering Heights,Emily Bronte,19.25,Fiction,1979,4.1
+Brave New World,Aldous Huxley,29.18,Biography,1967,2.4
+The Catcher in the Rye,J.D. Salinger,10.25,Science Fiction,2023,3.0
+Pride and Prejudice,Jane Austen,13.78,Mystery,1979,2.4
+Crime and Punishment,Fyodor Dostoevsky,22.67,Children's,2013,2.6
+The Odyssey,Homer,12.7,Biography,1975,1.6
+The Lord of the Rings,J.R.R. Tolkien,10.41,Children's,2002,2.0
+Crime and Punishment,Fyodor Dostoevsky,12.54,Fiction,1985,1.6
+Jane Eyre,Charlotte Bronte,22.12,Science Fiction,2001,4.1
+War and Peace,Leo Tolstoy,17.27,Classic,1951,2.6
+Jane Eyre,Charlotte Bronte,17.49,Fiction,2000,1.2
+The Odyssey,Homer,27.37,Science Fiction,2014,4.9
+Jane Eyre,Charlotte Bronte,24.88,Classic,1979,2.2
+Animal Farm,George Orwell,24.31,Classic,2007,2.5
+The Catcher in the Rye,J.D. Salinger,17.81,Mystery,2012,3.6
+Pride and Prejudice,Jane Austen,13.61,Historical,2020,3.9
+Don Quixote,Miguel de Cervantes,10.59,Children's,1985,4.4
+Crime and Punishment,Fyodor Dostoevsky,24.93,Fantasy,1964,4.8
+Moby-Dick,Herman Melville,29.15,Non-Fiction,1972,2.7
+The Great Gatsby,F. Scott Fitzgerald,22.61,Fiction,2006,4.0
+Moby-Dick,Herman Melville,28.88,Science Fiction,1967,4.9
+Brave New World,Aldous Huxley,28.77,Science Fiction,1984,2.6
+Don Quixote,Miguel de Cervantes,29.3,Young Adult,2010,1.2
+The Great Gatsby,F. Scott Fitzgerald,10.16,Classic,1975,3.2
+Wuthering Heights,Emily Bronte,10.63,Biography,2015,1.8
+The Lord of the Rings,J.R.R. Tolkien,23.49,Fantasy,1959,3.2
+Moby-Dick,Herman Melville,11.42,Non-Fiction,1991,1.0
+The Catcher in the Rye,J.D. Salinger,23.86,Young Adult,2009,1.9
+The Odyssey,Homer,20.35,Fiction,1980,1.9
+War and Peace,Leo Tolstoy,25.56,Mystery,2022,1.5
+Pride and Prejudice,Jane Austen,27.78,Young Adult,1961,1.3
+The Catcher in the Rye,J.D. Salinger,26.67,Young Adult,2022,2.5
+The Iliad,Homer,26.01,Children's,1991,4.9
+War and Peace,Leo Tolstoy,21.52,Young Adult,1972,4.8
+The Chronicles of Narnia,C.S. Lewis,29.55,Mystery,1980,2.8
+The Iliad,Homer,16.21,Fiction,1965,3.4
+Don Quixote,Miguel de Cervantes,10.22,Fantasy,1983,4.3
+Crime and Punishment,Fyodor Dostoevsky,18.41,Classic,1994,2.3
+Wuthering Heights,Emily Bronte,12.1,Fiction,1973,2.1
+The Odyssey,Homer,28.18,Young Adult,1997,1.1
+The Iliad,Homer,14.14,Children's,1994,4.5
+Crime and Punishment,Fyodor Dostoevsky,12.92,Science Fiction,1974,2.5
+The Iliad,Homer,22.25,Science Fiction,2013,1.8
+Animal Farm,George Orwell,23.86,Non-Fiction,2000,4.4
+Pride and Prejudice,Jane Austen,11.82,Young Adult,1998,3.8
+Pride and Prejudice,Jane Austen,24.04,Fiction,1950,4.9
+Brave New World,Aldous Huxley,22.83,Fiction,1993,2.6
+Brave New World,Aldous Huxley,23.31,Fiction,1991,1.0
+Wuthering Heights,Emily Bronte,26.94,Biography,2013,1.8
+The Chronicles of Narnia,C.S. Lewis,18.46,Young Adult,1993,4.1
+The Catcher in the Rye,J.D. Salinger,23.67,Young Adult,1952,3.5
+War and Peace,Leo Tolstoy,10.73,Children's,2007,2.1
+The Lord of the Rings,J.R.R. Tolkien,28.08,Young Adult,1959,4.0
+Animal Farm,George Orwell,17.64,Children's,2008,1.5
+Brave New World,Aldous Huxley,21.23,Fiction,1986,1.4
+Moby-Dick,Herman Melville,20.05,Historical,1963,1.8
+The Catcher in the Rye,J.D. Salinger,24.87,Science Fiction,2008,4.1
+The Chronicles of Narnia,C.S. Lewis,18.93,Non-Fiction,1969,4.8
+Brave New World,Aldous Huxley,10.72,Biography,1996,1.5
+War and Peace,Leo Tolstoy,27.68,Science Fiction,1952,1.8
+The Lord of the Rings,J.R.R. Tolkien,22.78,Classic,1966,2.7
+The Great Gatsby,F. Scott Fitzgerald,11.37,Mystery,1958,3.6
+The Odyssey,Homer,17.52,Classic,1956,4.1
+Animal Farm,George Orwell,29.95,Classic,2020,4.4
+Pride and Prejudice,Jane Austen,10.26,Biography,2019,2.8
+Jane Eyre,Charlotte Bronte,11.11,Fantasy,2006,4.4
+Pride and Prejudice,Jane Austen,25.13,Fiction,1984,1.7
+The Catcher in the Rye,J.D. Salinger,14.33,Fantasy,1978,4.6
+The Catcher in the Rye,J.D. Salinger,26.1,Non-Fiction,1999,2.8
+The Odyssey,Homer,21.1,Science Fiction,1957,2.3
+The Great Gatsby,F. Scott Fitzgerald,13.48,Fantasy,1997,2.0
+The Chronicles of Narnia,C.S. Lewis,22.14,Biography,1996,4.4
+Don Quixote,Miguel de Cervantes,16.04,Mystery,1972,3.7
+The Chronicles of Narnia,C.S. Lewis,27.5,Fiction,1976,1.7
+Pride and Prejudice,Jane Austen,25.56,Classic,1999,3.2
+Brave New World,Aldous Huxley,16.91,Fiction,2018,4.8
+The Odyssey,Homer,11.54,Historical,1964,1.9
+The Chronicles of Narnia,C.S. Lewis,14.48,Classic,2010,1.1
+Don Quixote,Miguel de Cervantes,13.22,Fiction,2014,4.7
+Crime and Punishment,Fyodor Dostoevsky,28.55,Children's,1983,2.4
+War and Peace,Leo Tolstoy,23.42,Fantasy,1973,4.6
+War and Peace,Leo Tolstoy,28.99,Biography,2021,3.8
+The Odyssey,Homer,22.1,Biography,1975,2.3
+The Lord of the Rings,J.R.R. Tolkien,27.72,Mystery,1963,2.2
+The Lord of the Rings,J.R.R. Tolkien,15.84,Biography,1967,4.1
+Brave New World,Aldous Huxley,29.96,Young Adult,2003,2.9
+War and Peace,Leo Tolstoy,12.26,Biography,1955,1.9
+The Catcher in the Rye,J.D. Salinger,26.27,Historical,1969,4.5
+The Odyssey,Homer,24.44,Non-Fiction,1969,1.9
+The Catcher in the Rye,J.D. Salinger,17.89,Science Fiction,1967,2.0
+The Iliad,Homer,22.61,Biography,1965,1.3
+Moby-Dick,Herman Melville,16.99,Biography,1960,3.6
+The Odyssey,Homer,14.0,Mystery,1988,4.6
+War and Peace,Leo Tolstoy,12.33,Fantasy,2017,4.7
+Moby-Dick,Herman Melville,11.84,Biography,2012,3.8
+The Great Gatsby,F. Scott Fitzgerald,12.01,Mystery,1990,4.4
+War and Peace,Leo Tolstoy,24.59,Classic,1955,3.7
+Jane Eyre,Charlotte Bronte,29.17,Young Adult,2002,1.8
+The Odyssey,Homer,21.02,Young Adult,1961,4.0
+Jane Eyre,Charlotte Bronte,11.17,Fantasy,1957,3.8
+The Great Gatsby,F. Scott Fitzgerald,12.0,Mystery,2019,3.1
+Don Quixote,Miguel de Cervantes,12.69,Science Fiction,1957,2.9
+Moby-Dick,Herman Melville,15.05,Fiction,1983,3.4
+The Odyssey,Homer,25.04,Children's,1984,2.9
+The Chronicles of Narnia,C.S. Lewis,20.08,Classic,2001,2.5
+Wuthering Heights,Emily Bronte,20.99,Classic,2022,4.5
+Pride and Prejudice,Jane Austen,14.03,Young Adult,1974,2.8
+Crime and Punishment,Fyodor Dostoevsky,18.28,Non-Fiction,1971,1.4
+Pride and Prejudice,Jane Austen,11.52,Fiction,1990,3.8
+War and Peace,Leo Tolstoy,26.37,Children's,1996,4.3
+The Lord of the Rings,J.R.R. Tolkien,18.35,Fantasy,2002,1.8
+Don Quixote,Miguel de Cervantes,17.9,Young Adult,2017,3.4
+Crime and Punishment,Fyodor Dostoevsky,10.62,Fantasy,1975,1.3
+Wuthering Heights,Emily Bronte,29.68,Non-Fiction,1960,4.7
+Don Quixote,Miguel de Cervantes,17.36,Classic,1970,2.8
+The Lord of the Rings,J.R.R. Tolkien,29.66,Classic,1986,2.6
+The Chronicles of Narnia,C.S. Lewis,10.67,Fiction,1960,3.0
+Wuthering Heights,Emily Bronte,10.43,Science Fiction,2022,4.2
+Brave New World,Aldous Huxley,14.32,Young Adult,1985,4.5
+The Iliad,Homer,24.79,Children's,2014,3.8
+Crime and Punishment,Fyodor Dostoevsky,10.81,Fiction,2012,4.9
