@@ -1,0 +1,182 @@
+[
+    {
+        "id": 121881,
+        "name": "Вейк-ан-Зее 2020",
+        "city": "Сория",
+        "begin": "19.05",
+        "system": "Olympic",
+        "tours_count": 15,
+        "min_rating": 2572,
+        "time_on_game": 141
+    },
+    {
+        "id": 126449,
+        "name": "Балтийская цепь 1975",
+        "city": "Афины",
+        "begin": "22.02",
+        "system": "Swiss",
+        "tours_count": 6,
+        "min_rating": 2530,
+        "time_on_game": 90
+    },
+    {
+        "id": 385866,
+        "name": "Хогевен 1971",
+        "city": "Санкт-Петербург",
+        "begin": "07.05",
+        "system": "Swiss",
+        "tours_count": 10,
+        "min_rating": 2532,
+        "time_on_game": 82
+    },
+    {
+        "id": 388786,
+        "name": "Линарес 1999",
+        "city": "Сан-Себастьян",
+        "begin": "02.03",
+        "system": "circular",
+        "tours_count": 12,
+        "min_rating": 2518,
+        "time_on_game": 53
+    },
+    {
+        "id": 419153,
+        "name": "Сент-Луис 2023",
+        "city": "Бургос",
+        "begin": "28.06",
+        "system": "Swiss",
+        "tours_count": 15,
+        "min_rating": 2537,
+        "time_on_game": 156
+    },
+    {
+        "id": 479802,
+        "name": "Гран-при ФИДЕ 1985",
+        "city": "Вальядолид",
+        "begin": "11.07",
+        "system": "circular",
+        "tours_count": 14,
+        "min_rating": 2529,
+        "time_on_game": 28
+    },
+    {
+        "id": 555902,
+        "name": "Гашиш 1985",
+        "city": "Навалькарнеро",
+        "begin": "28.08",
+        "system": "Olympic",
+        "tours_count": 14,
+        "min_rating": 2518,
+        "time_on_game": 175
+    },
+    {
+        "id": 556613,
+        "name": "Балтийская цепь 2014",
+        "city": "Сараево",
+        "begin": "24.08",
+        "system": "Swiss",
+        "tours_count": 9,
+        "min_rating": 2521,
+        "time_on_game": 83
+    },
+    {
+        "id": 575364,
+        "name": "Сент-Луис 1964",
+        "city": "Вильнюс",
+        "begin": "02.11",
+        "system": "Olympic",
+        "tours_count": 11,
+        "min_rating": 2522,
+        "time_on_game": 143
+    },
+    {
+        "id": 582589,
+        "name": "Балтийская цепь 2007",
+        "city": "Ереван",
+        "begin": "03.05",
+        "system": "circular",
+        "tours_count": 7,
+        "min_rating": 2533,
+        "time_on_game": 63
+    },
+    {
+        "id": 609734,
+        "name": "Европа 1963",
+        "city": "Самора",
+        "begin": "12.07",
+        "system": "circular",
+        "tours_count": 7,
+        "min_rating": 2552,
+        "time_on_game": 50
+    },
+    {
+        "id": 674480,
+        "name": "Мемориал Таля 2005",
+        "city": "Овьедо",
+        "begin": "01.09",
+        "system": "circular",
+        "tours_count": 12,
+        "min_rating": 2560,
+        "time_on_game": 172
+    },
+    {
+        "id": 797696,
+        "name": "Линарес 2018",
+        "city": "Душанбе",
+        "begin": "03.07",
+        "system": "Olympic",
+        "tours_count": 6,
+        "min_rating": 2526,
+        "time_on_game": 113
+    },
+    {
+        "id": 871533,
+        "name": "Кубок мира 1967",
+        "city": "Алькала-де-Энарес",
+        "begin": "24.07",
+        "system": "Swiss",
+        "tours_count": 12,
+        "min_rating": 2557,
+        "time_on_game": 113
+    },
+    {
+        "id": 890528,
+        "name": "Цюрих 1956",
+        "city": "Варшава",
+        "begin": "24.04",
+        "system": "Olympic",
+        "tours_count": 8,
+        "min_rating": 2581,
+        "time_on_game": 152
+    },
+    {
+        "id": 948858,
+        "name": "Биль 1974",
+        "city": "Хихон",
+        "begin": "20.03",
+        "system": "Olympic",
+        "tours_count": 7,
+        "min_rating": 2510,
+        "time_on_game": 57
+    },
+    {
+        "id": 974961,
+        "name": "Гран-при ФИДЕ 1974",
+        "city": "Тудела",
+        "begin": "09.05",
+        "system": "Olympic",
+        "tours_count": 13,
+        "min_rating": 2509,
+        "time_on_game": 25
+    },
+    {
+        "id": 982481,
+        "name": "Пальма 2014",
+        "city": "Рига",
+        "begin": "10.03",
+        "system": "Olympic",
+        "tours_count": 6,
+        "min_rating": 2561,
+        "time_on_game": 170
+    }
+]
