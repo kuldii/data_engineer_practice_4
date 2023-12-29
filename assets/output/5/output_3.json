@@ -1,0 +1,62 @@
+[
+    {
+        "writer": "Aldous Huxley",
+        "total_books": 82
+    },
+    {
+        "writer": "C.S. Lewis",
+        "total_books": 118
+    },
+    {
+        "writer": "Charlotte Bronte",
+        "total_books": 64
+    },
+    {
+        "writer": "Emily Bronte",
+        "total_books": 108
+    },
+    {
+        "writer": "F. Scott Fitzgerald",
+        "total_books": 91
+    },
+    {
+        "writer": "Fyodor Dostoevsky",
+        "total_books": 97
+    },
+    {
+        "writer": "George Orwell",
+        "total_books": 101
+    },
+    {
+        "writer": "Herman Melville",
+        "total_books": 82
+    },
+    {
+        "writer": "Homer",
+        "total_books": 225
+    },
+    {
+        "writer": "J.D. Salinger",
+        "total_books": 72
+    },
+    {
+        "writer": "J.K. Rowling",
+        "total_books": 10
+    },
+    {
+        "writer": "J.R.R. Tolkien",
+        "total_books": 86
+    },
+    {
+        "writer": "Jane Austen",
+        "total_books": 103
+    },
+    {
+        "writer": "Leo Tolstoy",
+        "total_books": 135
+    },
+    {
+        "writer": "Miguel de Cervantes",
+        "total_books": 143
+    }
+]

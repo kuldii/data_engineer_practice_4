@@ -44,7 +44,7 @@ def insertCustomer(cursor, customer):
             age,
             sex
         ) VALUES (?,?,?,?)
-    ''', (customer.name, customer.address, customer.age, customer.sex))
+    ''', (customers.name, customers.address, customers.age, customers.sex))
 
 def insertBook(cursor, book):
     cursor.execute('''
@@ -253,23 +253,56 @@ customers = queryExecute(cursor, "SELECT * FROM customers")
 transactions = queryExecute(cursor, "SELECT * FROM transactions")
 
 if(len(books) == 0 and len(customers) == 0 and len(transactions) == 0):
-    for book in books:
+    for book in allBooks:
         bookInstance = Book.from_dict(book)
         insertBook(cursor, bookInstance)
         
-    for customer in customers:
+    for customer in allCustomers:
         customerInstance = Customer.from_dict(customer)
-        insertBook(cursor, customerInstance)
+        insertCustomer(cursor, customerInstance)
         
-    for transaction in transactions:
+    for transaction in allTransactions:
         transactionInstance = Transaction.from_dict(transaction)
-        insertBook(cursor, transactionInstance)
+        insertTransaction(cursor, transactionInstance)
         
+query_1 = "SELECT * FROM books WHERE price > 20 ORDER BY rating DESC LIMIT 10"
+result_1 = queryExecute(cursor, query_1)
+dataJson = fromFetchToJson(cursor, result_1, toList=False)
+dataJsonResult = json.dumps(dataJson, indent=4, cls=NpEncoder, ensure_ascii=False)
+saveToJson("output_1.json", dataJsonResult)
         
-books = queryExecute(cursor, "SELECT * FROM books")
-customers = queryExecute(cursor, "SELECT * FROM customers")
-transactions = queryExecute(cursor, "SELECT * FROM transactions")
-
-print(books)
+query_2 = "SELECT COUNT(*) AS total_transaction FROM transactions"
+result_2 = queryExecute(cursor, query_2)
+dataJson = fromFetchToJson(cursor, result_2, toList=False)
+dataJsonResult = json.dumps(dataJson, indent=4, cls=NpEncoder, ensure_ascii=False)
+saveToJson("output_2.json", dataJsonResult)
+        
+query_3 = "SELECT writer, SUM(total) AS total_books FROM books JOIN transactions ON books.id = transactions.book_id GROUP BY writer"
+result_3 = queryExecute(cursor, query_3)
+dataJson = fromFetchToJson(cursor, result_3, toList=False)
+dataJsonResult = json.dumps(dataJson, indent=4, cls=NpEncoder, ensure_ascii=False)
+saveToJson("output_3.json", dataJsonResult)
+        
+query_4 = "UPDATE books SET price = 25.00 WHERE id = 100"
+updateExecute(conn, cursor, query_4)
+saveToJson("output_4.json", '{"result":"Update book price (id = 100) successful."}')
+        
+query_5 = "SELECT customers.name, SUM(books.price * transactions.total) AS total_price FROM customers JOIN transactions ON customers.id = transactions.customer_id JOIN books ON transactions.book_id = books.id GROUP BY customers.name ORDER BY total_price DESC"
+result_5 = queryExecute(cursor, query_5)
+dataJson = fromFetchToJson(cursor, result_5, toList=False)
+dataJsonResult = json.dumps(dataJson, indent=4, cls=NpEncoder, ensure_ascii=False)
+saveToJson("output_5.json", dataJsonResult)
+        
+query_6 = "SELECT AVG(price) AS avg_price FROM books"
+result_6 = queryExecute(cursor, query_6)
+dataJson = fromFetchToJson(cursor, result_6, toList=False)
+dataJsonResult = json.dumps(dataJson, indent=4, cls=NpEncoder, ensure_ascii=False)
+saveToJson("output_6.json", dataJsonResult)
+        
+query_7 = "SELECT books.title, SUM(transactions.total) AS total_sell FROM books JOIN transactions ON books.id = transactions.book_id GROUP BY books.title ORDER BY total_sell DESC LIMIT 10"
+result_7 = queryExecute(cursor, query_7)
+dataJson = fromFetchToJson(cursor, result_7, toList=False)
+dataJsonResult = json.dumps(dataJson, indent=4, cls=NpEncoder, ensure_ascii=False)
+saveToJson("output_7.json", dataJsonResult)
 
 close_connection(conn)

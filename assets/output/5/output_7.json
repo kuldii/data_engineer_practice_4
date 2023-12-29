@@ -1,0 +1,42 @@
+[
+    {
+        "title": "The Odyssey",
+        "total_sell": 157
+    },
+    {
+        "title": "Don Quixote",
+        "total_sell": 143
+    },
+    {
+        "title": "War and Peace",
+        "total_sell": 135
+    },
+    {
+        "title": "The Chronicles of Narnia",
+        "total_sell": 118
+    },
+    {
+        "title": "Wuthering Heights",
+        "total_sell": 108
+    },
+    {
+        "title": "Pride and Prejudice",
+        "total_sell": 103
+    },
+    {
+        "title": "Animal Farm",
+        "total_sell": 101
+    },
+    {
+        "title": "Crime and Punishment",
+        "total_sell": 97
+    },
+    {
+        "title": "The Great Gatsby",
+        "total_sell": 91
+    },
+    {
+        "title": "The Lord of the Rings",
+        "total_sell": 86
+    }
+]

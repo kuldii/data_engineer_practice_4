@@ -1,0 +1,92 @@
+[
+    {
+        "id": 154,
+        "title": "Jane Eyre",
+        "writer": "Charlotte Bronte",
+        "price": 26.75,
+        "category": "Non-Fiction",
+        "year": 1954,
+        "rating": 5.0
+    },
+    {
+        "id": 54,
+        "title": "The Lord of the Rings",
+        "writer": "J.R.R. Tolkien",
+        "price": 29.08,
+        "category": "Science Fiction",
+        "year": 1981,
+        "rating": 4.9
+    },
+    {
+        "id": 100,
+        "title": "The Chronicles of Narnia",
+        "writer": "C.S. Lewis",
+        "price": 25.0,
+        "category": "Fiction",
+        "year": 2008,
+        "rating": 4.9
+    },
+    {
+        "id": 160,
+        "title": "The Iliad",
+        "writer": "Homer",
+        "price": 28.42,
+        "category": "Fiction",
+        "year": 2003,
+        "rating": 4.9
+    },
+    {
+        "id": 276,
+        "title": "Don Quixote",
+        "writer": "Miguel de Cervantes",
+        "price": 25.91,
+        "category": "Fantasy",
+        "year": 1970,
+        "rating": 4.9
+    },
+    {
+        "id": 304,
+        "title": "Pride and Prejudice",
+        "writer": "Jane Austen",
+        "price": 24.54,
+        "category": "Historical",
+        "year": 2010,
+        "rating": 4.9
+    },
+    {
+        "id": 394,
+        "title": "The Odyssey",
+        "writer": "Homer",
+        "price": 27.37,
+        "category": "Science Fiction",
+        "year": 2014,
+        "rating": 4.9
+    },
+    {
+        "id": 403,
+        "title": "Moby-Dick",
+        "writer": "Herman Melville",
+        "price": 28.88,
+        "category": "Science Fiction",
+        "year": 1967,
+        "rating": 4.9
+    },
+    {
+        "id": 415,
+        "title": "The Iliad",
+        "writer": "Homer",
+        "price": 26.01,
+        "category": "Children's",
+        "year": 1991,
+        "rating": 4.9
+    },
+    {
+        "id": 428,
+        "title": "Pride and Prejudice",
+        "writer": "Jane Austen",
+        "price": 24.04,
+        "category": "Fiction",
+        "year": 1950,
+        "rating": 4.9
+    }
+]
